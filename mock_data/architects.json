@@ -1,0 +1,5102 @@
+[
+  {
+    "serial_no": 1,
+    "registration_number": "CA/1982/10137",
+    "name": "Ar. Kavita Mehta",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/1997",
+    "registration_year": 1982,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "702, Sector 48, Bhopal - 671859",
+    "raw_data": {
+      "sl": "1",
+      "name": "Ar. Kavita Mehta",
+      "reg_no": "CA/1982/10137",
+      "city": "Bhopal",
+      "valid_up_to": "31/12/1997",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 2,
+    "registration_number": "CA/2012/10274",
+    "name": "Dr. Vikram Verma",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2018",
+    "registration_year": 2012,
+    "qualification": "B.Arch (Hons)",
+    "status": "Defaulter",
+    "address": "527, Sector 39, Nagpur - 127825",
+    "raw_data": {
+      "sl": "2",
+      "name": "Dr. Vikram Verma",
+      "reg_no": "CA/2012/10274",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2018",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 3,
+    "registration_number": "CA/1987/10411",
+    "name": "Dr. Deepak Dutta",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2025",
+    "registration_year": 1987,
+    "qualification": "B.Arch",
+    "status": "Inactive",
+    "address": "787, Sector 11, Noida - 543144",
+    "raw_data": {
+      "sl": "3",
+      "name": "Dr. Deepak Dutta",
+      "reg_no": "CA/1987/10411",
+      "city": "Noida",
+      "valid_up_to": "31/12/2025",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 4,
+    "registration_number": "CA/1992/10548",
+    "name": "Mr. Sangeeta Menon",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/1999",
+    "registration_year": 1992,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "109, Sector 23, Kolkata - 460664",
+    "raw_data": {
+      "sl": "4",
+      "name": "Mr. Sangeeta Menon",
+      "reg_no": "CA/1992/10548",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/1999",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 5,
+    "registration_number": "CA/1991/10685",
+    "name": "Ar. Swati Ram",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "valid_up_to": "31/12/2016",
+    "registration_year": 1991,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "859, Sector 41, Chandigarh - 748565",
+    "raw_data": {
+      "sl": "5",
+      "name": "Ar. Swati Ram",
+      "reg_no": "CA/1991/10685",
+      "city": "Chandigarh",
+      "valid_up_to": "31/12/2016",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 6,
+    "registration_number": "CA/1998/10822",
+    "name": "Mr. Ananya Patel",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "valid_up_to": "31/12/2013",
+    "registration_year": 1998,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "885, Sector 15, Dehradun - 205908",
+    "raw_data": {
+      "sl": "6",
+      "name": "Mr. Ananya Patel",
+      "reg_no": "CA/1998/10822",
+      "city": "Dehradun",
+      "valid_up_to": "31/12/2013",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 7,
+    "registration_number": "CA/1992/10959",
+    "name": "Dr. Neha Mohan",
+    "city": "Surat",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2016",
+    "registration_year": 1992,
+    "qualification": "B.Arch (Hons)",
+    "status": "Inactive",
+    "address": "696, Sector 18, Surat - 779515",
+    "raw_data": {
+      "sl": "7",
+      "name": "Dr. Neha Mohan",
+      "reg_no": "CA/1992/10959",
+      "city": "Surat",
+      "valid_up_to": "31/12/2016",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 8,
+    "registration_number": "CA/2013/11096",
+    "name": "Mr. Hemant Mehta",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2024",
+    "registration_year": 2013,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "286, Sector 41, Nagpur - 684005",
+    "raw_data": {
+      "sl": "8",
+      "name": "Mr. Hemant Mehta",
+      "reg_no": "CA/2013/11096",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2024",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 9,
+    "registration_number": "CA/2018/11233",
+    "name": "Ms. Sunanda Kulkarni",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2021",
+    "registration_year": 2018,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "284, Sector 5, Chennai - 321232",
+    "raw_data": {
+      "sl": "9",
+      "name": "Ms. Sunanda Kulkarni",
+      "reg_no": "CA/2018/11233",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2021",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 10,
+    "registration_number": "CA/2011/11370",
+    "name": "Ms. Sangeeta Ghosh",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2011,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "156, Sector 17, Shimla - 246414",
+    "raw_data": {
+      "sl": "10",
+      "name": "Ms. Sangeeta Ghosh",
+      "reg_no": "CA/2011/11370",
+      "city": "Shimla",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 11,
+    "registration_number": "CA/2022/11507",
+    "name": "Ms. Shalini Chopra",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2022,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "380, Sector 15, Chennai - 245052",
+    "raw_data": {
+      "sl": "11",
+      "name": "Ms. Shalini Chopra",
+      "reg_no": "CA/2022/11507",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 12,
+    "registration_number": "CA/2006/11644",
+    "name": "Ar. Sunanda Ram",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2016",
+    "registration_year": 2006,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "620, Sector 5, Lucknow - 503458",
+    "raw_data": {
+      "sl": "12",
+      "name": "Ar. Sunanda Ram",
+      "reg_no": "CA/2006/11644",
+      "city": "Lucknow",
+      "valid_up_to": "31/12/2016",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 13,
+    "registration_number": "CA/2013/11781",
+    "name": "Dr. Bhavna Shah",
+    "city": "Surat",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2013,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "706, Sector 47, Surat - 220117",
+    "raw_data": {
+      "sl": "13",
+      "name": "Dr. Bhavna Shah",
+      "reg_no": "CA/2013/11781",
+      "city": "Surat",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 14,
+    "registration_number": "CA/2009/11918",
+    "name": "Ms. Tanvi Ram",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2009,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "171, Sector 30, Indore - 103403",
+    "raw_data": {
+      "sl": "14",
+      "name": "Ms. Tanvi Ram",
+      "reg_no": "CA/2009/11918",
+      "city": "Indore",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 15,
+    "registration_number": "CA/2021/12055",
+    "name": "Ms. Karthik Iyer",
+    "city": "Goa",
+    "state": "Goa",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2021,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "901, Sector 41, Goa - 412943",
+    "raw_data": {
+      "sl": "15",
+      "name": "Ms. Karthik Iyer",
+      "reg_no": "CA/2021/12055",
+      "city": "Goa",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 16,
+    "registration_number": "CA/2015/12192",
+    "name": "Mr. Nilesh Kapoor",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2015,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "510, Sector 2, Bhubaneswar - 217302",
+    "raw_data": {
+      "sl": "16",
+      "name": "Mr. Nilesh Kapoor",
+      "reg_no": "CA/2015/12192",
+      "city": "Bhubaneswar",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 17,
+    "registration_number": "CA/1998/12329",
+    "name": "Ms. Sneha Bose",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "valid_up_to": "31/12/2014",
+    "registration_year": 1998,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "759, Sector 32, Shimla - 172575",
+    "raw_data": {
+      "sl": "17",
+      "name": "Ms. Sneha Bose",
+      "reg_no": "CA/1998/12329",
+      "city": "Shimla",
+      "valid_up_to": "31/12/2014",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 18,
+    "registration_number": "CA/2009/12466",
+    "name": "Mr. Gajanand Banerjee",
+    "city": "Patna",
+    "state": "Bihar",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2009,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Active",
+    "address": "281, Sector 34, Patna - 736060",
+    "raw_data": {
+      "sl": "18",
+      "name": "Mr. Gajanand Banerjee",
+      "reg_no": "CA/2009/12466",
+      "city": "Patna",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 19,
+    "registration_number": "CA/1988/12603",
+    "name": "Mr. Priyanka Saxena",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2012",
+    "registration_year": 1988,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "133, Sector 16, Vadodara - 335613",
+    "raw_data": {
+      "sl": "19",
+      "name": "Mr. Priyanka Saxena",
+      "reg_no": "CA/1988/12603",
+      "city": "Vadodara",
+      "valid_up_to": "31/12/2012",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 20,
+    "registration_number": "CA/1996/12740",
+    "name": "Ar. Shalini Kulkarni",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1996,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "17, Sector 5, Nagpur - 761760",
+    "raw_data": {
+      "sl": "20",
+      "name": "Ar. Shalini Kulkarni",
+      "reg_no": "CA/1996/12740",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 21,
+    "registration_number": "CA/1989/12877",
+    "name": "Ar. Vikram Menon",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/1994",
+    "registration_year": 1989,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "695, Sector 32, Pune - 324644",
+    "raw_data": {
+      "sl": "21",
+      "name": "Ar. Vikram Menon",
+      "reg_no": "CA/1989/12877",
+      "city": "Pune",
+      "valid_up_to": "31/12/1994",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 22,
+    "registration_number": "CA/1983/13014",
+    "name": "Dr. Sneha Banerjee",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2010",
+    "registration_year": 1983,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "109, Sector 43, Noida - 551990",
+    "raw_data": {
+      "sl": "22",
+      "name": "Dr. Sneha Banerjee",
+      "reg_no": "CA/1983/13014",
+      "city": "Noida",
+      "valid_up_to": "31/12/2010",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 23,
+    "registration_number": "CA/2002/13151",
+    "name": "Dr. Swati Bose",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2009",
+    "registration_year": 2002,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "755, Sector 22, Ahmedabad - 214577",
+    "raw_data": {
+      "sl": "23",
+      "name": "Dr. Swati Bose",
+      "reg_no": "CA/2002/13151",
+      "city": "Ahmedabad",
+      "valid_up_to": "31/12/2009",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 24,
+    "registration_number": "CA/1987/13288",
+    "name": "Mr. Hemant Dutta",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/1996",
+    "registration_year": 1987,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "295, Sector 30, Chennai - 361942",
+    "raw_data": {
+      "sl": "24",
+      "name": "Mr. Hemant Dutta",
+      "reg_no": "CA/1987/13288",
+      "city": "Chennai",
+      "valid_up_to": "31/12/1996",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 25,
+    "registration_number": "CA/1979/13425",
+    "name": "Dr. Rachna Krishnadas",
+    "city": "Guwahati",
+    "state": "Assam",
+    "valid_up_to": "31/12/1983",
+    "registration_year": 1979,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "958, Sector 49, Guwahati - 347862",
+    "raw_data": {
+      "sl": "25",
+      "name": "Dr. Rachna Krishnadas",
+      "reg_no": "CA/1979/13425",
+      "city": "Guwahati",
+      "valid_up_to": "31/12/1983",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 26,
+    "registration_number": "CA/2001/13562",
+    "name": "Dr. Abhay Deshmukh",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2001,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "178, Sector 25, Bengaluru - 102261",
+    "raw_data": {
+      "sl": "26",
+      "name": "Dr. Abhay Deshmukh",
+      "reg_no": "CA/2001/13562",
+      "city": "Bengaluru",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 27,
+    "registration_number": "CA/1991/13699",
+    "name": "Dr. Rahul Chopra",
+    "city": "Surat",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1991,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "168, Sector 13, Surat - 411121",
+    "raw_data": {
+      "sl": "27",
+      "name": "Dr. Rahul Chopra",
+      "reg_no": "CA/1991/13699",
+      "city": "Surat",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 28,
+    "registration_number": "CA/1978/13836",
+    "name": "Ar. Vivek Bose",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/1982",
+    "registration_year": 1978,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "68, Sector 33, Mysore - 184003",
+    "raw_data": {
+      "sl": "28",
+      "name": "Ar. Vivek Bose",
+      "reg_no": "CA/1978/13836",
+      "city": "Mysore",
+      "valid_up_to": "31/12/1982",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 29,
+    "registration_number": "CA/1986/13973",
+    "name": "Ar. Sunil Singh",
+    "city": "Guwahati",
+    "state": "Assam",
+    "valid_up_to": "31/12/2002",
+    "registration_year": 1986,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "974, Sector 37, Guwahati - 358176",
+    "raw_data": {
+      "sl": "29",
+      "name": "Ar. Sunil Singh",
+      "reg_no": "CA/1986/13973",
+      "city": "Guwahati",
+      "valid_up_to": "31/12/2002",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 30,
+    "registration_number": "CA/2013/14110",
+    "name": "Ar. Aparna Chawney",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2013,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "967, Sector 17, Ghaziabad - 314182",
+    "raw_data": {
+      "sl": "30",
+      "name": "Ar. Aparna Chawney",
+      "reg_no": "CA/2013/14110",
+      "city": "Ghaziabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 31,
+    "registration_number": "CA/2020/14247",
+    "name": "Ms. Sneha Shah",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2020,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Active",
+    "address": "697, Sector 42, Indore - 414570",
+    "raw_data": {
+      "sl": "31",
+      "name": "Ms. Sneha Shah",
+      "reg_no": "CA/2020/14247",
+      "city": "Indore",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 32,
+    "registration_number": "CA/1995/14384",
+    "name": "Ar. Rajesh Mukherjee",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1995,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "85, Sector 35, Jaipur - 323509",
+    "raw_data": {
+      "sl": "32",
+      "name": "Ar. Rajesh Mukherjee",
+      "reg_no": "CA/1995/14384",
+      "city": "Jaipur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 33,
+    "registration_number": "CA/1991/14521",
+    "name": "Mr. Siddharth Singh",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2007",
+    "registration_year": 1991,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "171, Sector 29, Lucknow - 669606",
+    "raw_data": {
+      "sl": "33",
+      "name": "Mr. Siddharth Singh",
+      "reg_no": "CA/1991/14521",
+      "city": "Lucknow",
+      "valid_up_to": "31/12/2007",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 34,
+    "registration_number": "CA/1994/14658",
+    "name": "Ar. Rachna Reddy",
+    "city": "Kochi",
+    "state": "Kerala",
+    "valid_up_to": "31/12/2001",
+    "registration_year": 1994,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "128, Sector 7, Kochi - 680098",
+    "raw_data": {
+      "sl": "34",
+      "name": "Ar. Rachna Reddy",
+      "reg_no": "CA/1994/14658",
+      "city": "Kochi",
+      "valid_up_to": "31/12/2001",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 35,
+    "registration_number": "CA/1992/14795",
+    "name": "Ms. Sunil Deshmukh",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "valid_up_to": "31/12/2014",
+    "registration_year": 1992,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "527, Sector 32, New Delhi - 363320",
+    "raw_data": {
+      "sl": "35",
+      "name": "Ms. Sunil Deshmukh",
+      "reg_no": "CA/1992/14795",
+      "city": "New Delhi",
+      "valid_up_to": "31/12/2014",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 36,
+    "registration_number": "CA/1978/14932",
+    "name": "Ar. Ritu Gupta",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "valid_up_to": "31/12/1981",
+    "registration_year": 1978,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "799, Sector 9, Dehradun - 768062",
+    "raw_data": {
+      "sl": "36",
+      "name": "Ar. Ritu Gupta",
+      "reg_no": "CA/1978/14932",
+      "city": "Dehradun",
+      "valid_up_to": "31/12/1981",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 37,
+    "registration_number": "CA/1985/15069",
+    "name": "Dr. Rachna Chopra",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2021",
+    "registration_year": 1985,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "87, Sector 45, Coimbatore - 256295",
+    "raw_data": {
+      "sl": "37",
+      "name": "Dr. Rachna Chopra",
+      "reg_no": "CA/1985/15069",
+      "city": "Coimbatore",
+      "valid_up_to": "31/12/2021",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 38,
+    "registration_number": "CA/1977/15206",
+    "name": "Ms. Shalini Asthana",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2005",
+    "registration_year": 1977,
+    "qualification": "B.Arch",
+    "status": "Defaulter",
+    "address": "325, Sector 24, Noida - 141833",
+    "raw_data": {
+      "sl": "38",
+      "name": "Ms. Shalini Asthana",
+      "reg_no": "CA/1977/15206",
+      "city": "Noida",
+      "valid_up_to": "31/12/2005",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 39,
+    "registration_number": "CA/1997/15343",
+    "name": "Mr. Sneha Krishnadas",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "valid_up_to": "31/12/2020",
+    "registration_year": 1997,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "957, Sector 16, Dehradun - 270396",
+    "raw_data": {
+      "sl": "39",
+      "name": "Mr. Sneha Krishnadas",
+      "reg_no": "CA/1997/15343",
+      "city": "Dehradun",
+      "valid_up_to": "31/12/2020",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 40,
+    "registration_number": "CA/1986/15480",
+    "name": "Dr. Pooja Iyer",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "valid_up_to": "31/12/2008",
+    "registration_year": 1986,
+    "qualification": "B.Arch (Hons)",
+    "status": "Inactive",
+    "address": "283, Sector 11, Ranchi - 213347",
+    "raw_data": {
+      "sl": "40",
+      "name": "Dr. Pooja Iyer",
+      "reg_no": "CA/1986/15480",
+      "city": "Ranchi",
+      "valid_up_to": "31/12/2008",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 41,
+    "registration_number": "CA/1977/15617",
+    "name": "Dr. Deepak Nair",
+    "city": "Surat",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2007",
+    "registration_year": 1977,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "850, Sector 15, Surat - 333753",
+    "raw_data": {
+      "sl": "41",
+      "name": "Dr. Deepak Nair",
+      "reg_no": "CA/1977/15617",
+      "city": "Surat",
+      "valid_up_to": "31/12/2007",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 42,
+    "registration_number": "CA/2017/15754",
+    "name": "Mr. Divya Menon",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2017,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "801, Sector 18, Mumbai - 468204",
+    "raw_data": {
+      "sl": "42",
+      "name": "Mr. Divya Menon",
+      "reg_no": "CA/2017/15754",
+      "city": "Mumbai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 43,
+    "registration_number": "CA/2007/15891",
+    "name": "Dr. Hemant Menon",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2009",
+    "registration_year": 2007,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "192, Sector 38, Bhopal - 378362",
+    "raw_data": {
+      "sl": "43",
+      "name": "Dr. Hemant Menon",
+      "reg_no": "CA/2007/15891",
+      "city": "Bhopal",
+      "valid_up_to": "31/12/2009",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 44,
+    "registration_number": "CA/1981/16028",
+    "name": "Dr. Siddharth Rao",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2009",
+    "registration_year": 1981,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "931, Sector 37, Pune - 299313",
+    "raw_data": {
+      "sl": "44",
+      "name": "Dr. Siddharth Rao",
+      "reg_no": "CA/1981/16028",
+      "city": "Pune",
+      "valid_up_to": "31/12/2009",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 45,
+    "registration_number": "CA/1977/16165",
+    "name": "Dr. Rajesh Nair",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2001",
+    "registration_year": 1977,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "981, Sector 43, Coimbatore - 446240",
+    "raw_data": {
+      "sl": "45",
+      "name": "Dr. Rajesh Nair",
+      "reg_no": "CA/1977/16165",
+      "city": "Coimbatore",
+      "valid_up_to": "31/12/2001",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 46,
+    "registration_number": "CA/1995/16302",
+    "name": "Ar. Priyanka Reddy",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 1995,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "723, Sector 19, Chandigarh - 681344",
+    "raw_data": {
+      "sl": "46",
+      "name": "Ar. Priyanka Reddy",
+      "reg_no": "CA/1995/16302",
+      "city": "Chandigarh",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 47,
+    "registration_number": "CA/1987/16439",
+    "name": "Dr. Manoj Iyer",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1987,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "425, Sector 36, New Delhi - 100426",
+    "raw_data": {
+      "sl": "47",
+      "name": "Dr. Manoj Iyer",
+      "reg_no": "CA/1987/16439",
+      "city": "New Delhi",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 48,
+    "registration_number": "CA/1993/16576",
+    "name": "Mr. Ritu Rao",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/2023",
+    "registration_year": 1993,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "701, Sector 14, Hyderabad - 636005",
+    "raw_data": {
+      "sl": "48",
+      "name": "Mr. Ritu Rao",
+      "reg_no": "CA/1993/16576",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/2023",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 49,
+    "registration_number": "CA/2022/16713",
+    "name": "Mr. Jaswant Agarwal",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2022,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "105, Sector 49, Jodhpur - 346278",
+    "raw_data": {
+      "sl": "49",
+      "name": "Mr. Jaswant Agarwal",
+      "reg_no": "CA/2022/16713",
+      "city": "Jodhpur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 50,
+    "registration_number": "CA/1994/16850",
+    "name": "Mr. Arun Asthana",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/1996",
+    "registration_year": 1994,
+    "qualification": "B.Arch (Hons)",
+    "status": "Defaulter",
+    "address": "496, Sector 40, Indore - 176366",
+    "raw_data": {
+      "sl": "50",
+      "name": "Mr. Arun Asthana",
+      "reg_no": "CA/1994/16850",
+      "city": "Indore",
+      "valid_up_to": "31/12/1996",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 51,
+    "registration_number": "CA/2001/16987",
+    "name": "Mr. Manoj Ghosh",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2001,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "161, Sector 42, Jaipur - 105815",
+    "raw_data": {
+      "sl": "51",
+      "name": "Mr. Manoj Ghosh",
+      "reg_no": "CA/2001/16987",
+      "city": "Jaipur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 52,
+    "registration_number": "CA/2023/17124",
+    "name": "Ar. Ritu Kulkarni",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2023,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "61, Sector 36, Dehradun - 361304",
+    "raw_data": {
+      "sl": "52",
+      "name": "Ar. Ritu Kulkarni",
+      "reg_no": "CA/2023/17124",
+      "city": "Dehradun",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 53,
+    "registration_number": "CA/1982/17261",
+    "name": "Dr. Gajanand Mukherjee",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "valid_up_to": "31/12/2016",
+    "registration_year": 1982,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "637, Sector 47, Shimla - 629299",
+    "raw_data": {
+      "sl": "53",
+      "name": "Dr. Gajanand Mukherjee",
+      "reg_no": "CA/1982/17261",
+      "city": "Shimla",
+      "valid_up_to": "31/12/2016",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 54,
+    "registration_number": "CA/2010/17398",
+    "name": "Dr. Rohit Banerjee",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2010,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "779, Sector 16, Vadodara - 768637",
+    "raw_data": {
+      "sl": "54",
+      "name": "Dr. Rohit Banerjee",
+      "reg_no": "CA/2010/17398",
+      "city": "Vadodara",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 55,
+    "registration_number": "CA/2024/17535",
+    "name": "Dr. Sneha Gupta",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2024,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "740, Sector 19, Coimbatore - 345885",
+    "raw_data": {
+      "sl": "55",
+      "name": "Dr. Sneha Gupta",
+      "reg_no": "CA/2024/17535",
+      "city": "Coimbatore",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 56,
+    "registration_number": "CA/1996/17672",
+    "name": "Ms. Hemant Chawney",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2005",
+    "registration_year": 1996,
+    "qualification": "B.Arch (Hons)",
+    "status": "Defaulter",
+    "address": "402, Sector 45, Coimbatore - 260228",
+    "raw_data": {
+      "sl": "56",
+      "name": "Ms. Hemant Chawney",
+      "reg_no": "CA/1996/17672",
+      "city": "Coimbatore",
+      "valid_up_to": "31/12/2005",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 57,
+    "registration_number": "CA/1988/17809",
+    "name": "Ar. Suresh Bhatia",
+    "city": "Kochi",
+    "state": "Kerala",
+    "valid_up_to": "31/12/2010",
+    "registration_year": 1988,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "73, Sector 14, Kochi - 540553",
+    "raw_data": {
+      "sl": "57",
+      "name": "Ar. Suresh Bhatia",
+      "reg_no": "CA/1988/17809",
+      "city": "Kochi",
+      "valid_up_to": "31/12/2010",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 58,
+    "registration_number": "CA/2024/17946",
+    "name": "Ar. Ashok Malhotra",
+    "city": "Surat",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2024,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "975, Sector 23, Surat - 413119",
+    "raw_data": {
+      "sl": "58",
+      "name": "Ar. Ashok Malhotra",
+      "reg_no": "CA/2024/17946",
+      "city": "Surat",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 59,
+    "registration_number": "CA/1999/18083",
+    "name": "Dr. Hemant Kulkarni",
+    "city": "Patna",
+    "state": "Bihar",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1999,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "289, Sector 28, Patna - 609233",
+    "raw_data": {
+      "sl": "59",
+      "name": "Dr. Hemant Kulkarni",
+      "reg_no": "CA/1999/18083",
+      "city": "Patna",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 60,
+    "registration_number": "CA/1999/18220",
+    "name": "Ms. Divya Mohan",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1999,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Active",
+    "address": "647, Sector 35, Mumbai - 128277",
+    "raw_data": {
+      "sl": "60",
+      "name": "Ms. Divya Mohan",
+      "reg_no": "CA/1999/18220",
+      "city": "Mumbai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 61,
+    "registration_number": "CA/2000/18357",
+    "name": "Ar. Jaswant Chopra",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "valid_up_to": "31/12/2009",
+    "registration_year": 2000,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "61, Sector 17, Shimla - 497520",
+    "raw_data": {
+      "sl": "61",
+      "name": "Ar. Jaswant Chopra",
+      "reg_no": "CA/2000/18357",
+      "city": "Shimla",
+      "valid_up_to": "31/12/2009",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 62,
+    "registration_number": "CA/1988/18494",
+    "name": "Dr. Vivek Menon",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/2013",
+    "registration_year": 1988,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "268, Sector 6, Kolkata - 593153",
+    "raw_data": {
+      "sl": "62",
+      "name": "Dr. Vivek Menon",
+      "reg_no": "CA/1988/18494",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/2013",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 63,
+    "registration_number": "CA/2022/18631",
+    "name": "Ar. Siddharth Kulkarni",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2022,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "782, Sector 2, Mumbai - 359296",
+    "raw_data": {
+      "sl": "63",
+      "name": "Ar. Siddharth Kulkarni",
+      "reg_no": "CA/2022/18631",
+      "city": "Mumbai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 64,
+    "registration_number": "CA/1976/18768",
+    "name": "Mr. Sneha Chavan",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/2007",
+    "registration_year": 1976,
+    "qualification": "B.Arch (Hons)",
+    "status": "Defaulter",
+    "address": "486, Sector 45, Mysore - 368691",
+    "raw_data": {
+      "sl": "64",
+      "name": "Mr. Sneha Chavan",
+      "reg_no": "CA/1976/18768",
+      "city": "Mysore",
+      "valid_up_to": "31/12/2007",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 65,
+    "registration_number": "CA/1998/18905",
+    "name": "Mr. Sunil Ram",
+    "city": "Patna",
+    "state": "Bihar",
+    "valid_up_to": "31/12/2009",
+    "registration_year": 1998,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "602, Sector 2, Patna - 427111",
+    "raw_data": {
+      "sl": "65",
+      "name": "Mr. Sunil Ram",
+      "reg_no": "CA/1998/18905",
+      "city": "Patna",
+      "valid_up_to": "31/12/2009",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 66,
+    "registration_number": "CA/2018/19042",
+    "name": "Dr. Divya Nair",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2023",
+    "registration_year": 2018,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "723, Sector 50, Ghaziabad - 416233",
+    "raw_data": {
+      "sl": "66",
+      "name": "Dr. Divya Nair",
+      "reg_no": "CA/2018/19042",
+      "city": "Ghaziabad",
+      "valid_up_to": "31/12/2023",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 67,
+    "registration_number": "CA/2018/19179",
+    "name": "Ar. Ashok Patel",
+    "city": "Guwahati",
+    "state": "Assam",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2018,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "687, Sector 24, Guwahati - 172307",
+    "raw_data": {
+      "sl": "67",
+      "name": "Ar. Ashok Patel",
+      "reg_no": "CA/2018/19179",
+      "city": "Guwahati",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 68,
+    "registration_number": "CA/2016/19316",
+    "name": "Ms. Rajesh Bhatia",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2016,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "453, Sector 24, Lucknow - 766460",
+    "raw_data": {
+      "sl": "68",
+      "name": "Ms. Rajesh Bhatia",
+      "reg_no": "CA/2016/19316",
+      "city": "Lucknow",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 69,
+    "registration_number": "CA/2004/19453",
+    "name": "Mr. Ritu Iyer",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2004,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "640, Sector 35, Dehradun - 606984",
+    "raw_data": {
+      "sl": "69",
+      "name": "Mr. Ritu Iyer",
+      "reg_no": "CA/2004/19453",
+      "city": "Dehradun",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 70,
+    "registration_number": "CA/2002/19590",
+    "name": "Ms. Vivek Mehta",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2008",
+    "registration_year": 2002,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "259, Sector 49, Jaipur - 587283",
+    "raw_data": {
+      "sl": "70",
+      "name": "Ms. Vivek Mehta",
+      "reg_no": "CA/2002/19590",
+      "city": "Jaipur",
+      "valid_up_to": "31/12/2008",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 71,
+    "registration_number": "CA/2014/19727",
+    "name": "Dr. Tanvi Verma",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2014,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "196, Sector 32, Ghaziabad - 322424",
+    "raw_data": {
+      "sl": "71",
+      "name": "Dr. Tanvi Verma",
+      "reg_no": "CA/2014/19727",
+      "city": "Ghaziabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 72,
+    "registration_number": "CA/1991/19864",
+    "name": "Ms. Kavita Gupta",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1991,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "539, Sector 13, Ahmedabad - 189772",
+    "raw_data": {
+      "sl": "72",
+      "name": "Ms. Kavita Gupta",
+      "reg_no": "CA/1991/19864",
+      "city": "Ahmedabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 73,
+    "registration_number": "CA/2021/20001",
+    "name": "Dr. Preeti Mehta",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2021,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "468, Sector 2, Chennai - 197574",
+    "raw_data": {
+      "sl": "73",
+      "name": "Dr. Preeti Mehta",
+      "reg_no": "CA/2021/20001",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 74,
+    "registration_number": "CA/1989/20138",
+    "name": "Dr. Sneha Reddy",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1989,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "494, Sector 36, Hyderabad - 656712",
+    "raw_data": {
+      "sl": "74",
+      "name": "Dr. Sneha Reddy",
+      "reg_no": "CA/1989/20138",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 75,
+    "registration_number": "CA/2002/20275",
+    "name": "Ms. Siddharth Mukherjee",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2020",
+    "registration_year": 2002,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "246, Sector 8, Ahmedabad - 301940",
+    "raw_data": {
+      "sl": "75",
+      "name": "Ms. Siddharth Mukherjee",
+      "reg_no": "CA/2002/20275",
+      "city": "Ahmedabad",
+      "valid_up_to": "31/12/2020",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 76,
+    "registration_number": "CA/1982/20412",
+    "name": "Mr. Arun Deshmukh",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/2013",
+    "registration_year": 1982,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "112, Sector 13, Kolkata - 410637",
+    "raw_data": {
+      "sl": "76",
+      "name": "Mr. Arun Deshmukh",
+      "reg_no": "CA/1982/20412",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/2013",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 77,
+    "registration_number": "CA/1998/20549",
+    "name": "Mr. Priyanka Sharma",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1998,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Active",
+    "address": "290, Sector 3, Chennai - 157175",
+    "raw_data": {
+      "sl": "77",
+      "name": "Mr. Priyanka Sharma",
+      "reg_no": "CA/1998/20549",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 78,
+    "registration_number": "CA/1993/20686",
+    "name": "Mr. Preeti Krishnadas",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/1994",
+    "registration_year": 1993,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "500, Sector 29, Noida - 457257",
+    "raw_data": {
+      "sl": "78",
+      "name": "Mr. Preeti Krishnadas",
+      "reg_no": "CA/1993/20686",
+      "city": "Noida",
+      "valid_up_to": "31/12/1994",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 79,
+    "registration_number": "CA/1978/20823",
+    "name": "Ms. Abhay Ram",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/1983",
+    "registration_year": 1978,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "85, Sector 37, Bengaluru - 760022",
+    "raw_data": {
+      "sl": "79",
+      "name": "Ms. Abhay Ram",
+      "reg_no": "CA/1978/20823",
+      "city": "Bengaluru",
+      "valid_up_to": "31/12/1983",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 80,
+    "registration_number": "CA/1978/20960",
+    "name": "Mr. Nilesh Reddy",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/1984",
+    "registration_year": 1978,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "581, Sector 49, Indore - 536391",
+    "raw_data": {
+      "sl": "80",
+      "name": "Mr. Nilesh Reddy",
+      "reg_no": "CA/1978/20960",
+      "city": "Indore",
+      "valid_up_to": "31/12/1984",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 81,
+    "registration_number": "CA/2013/21097",
+    "name": "Mr. Bhavna Malhotra",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2013,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "314, Sector 38, Chandigarh - 549661",
+    "raw_data": {
+      "sl": "81",
+      "name": "Mr. Bhavna Malhotra",
+      "reg_no": "CA/2013/21097",
+      "city": "Chandigarh",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 82,
+    "registration_number": "CA/2011/21234",
+    "name": "Ar. Aparna Krishnadas",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/2025",
+    "registration_year": 2011,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "686, Sector 6, Hyderabad - 264687",
+    "raw_data": {
+      "sl": "82",
+      "name": "Ar. Aparna Krishnadas",
+      "reg_no": "CA/2011/21234",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/2025",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 83,
+    "registration_number": "CA/1986/21371",
+    "name": "Ar. Rohit Sharma",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2013",
+    "registration_year": 1986,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "308, Sector 3, Chennai - 342721",
+    "raw_data": {
+      "sl": "83",
+      "name": "Ar. Rohit Sharma",
+      "reg_no": "CA/1986/21371",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2013",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 84,
+    "registration_number": "CA/2020/21508",
+    "name": "Ms. Swati Singh",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2020,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "816, Sector 41, Hyderabad - 718440",
+    "raw_data": {
+      "sl": "84",
+      "name": "Ms. Swati Singh",
+      "reg_no": "CA/2020/21508",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 85,
+    "registration_number": "CA/1987/21645",
+    "name": "Dr. Praveen Kulkarni",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/1997",
+    "registration_year": 1987,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "83, Sector 4, Indore - 273983",
+    "raw_data": {
+      "sl": "85",
+      "name": "Dr. Praveen Kulkarni",
+      "reg_no": "CA/1987/21645",
+      "city": "Indore",
+      "valid_up_to": "31/12/1997",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 86,
+    "registration_number": "CA/1994/21782",
+    "name": "Ms. Alok Ram",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "valid_up_to": "31/12/2024",
+    "registration_year": 1994,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "975, Sector 18, Ranchi - 624784",
+    "raw_data": {
+      "sl": "86",
+      "name": "Ms. Alok Ram",
+      "reg_no": "CA/1994/21782",
+      "city": "Ranchi",
+      "valid_up_to": "31/12/2024",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 87,
+    "registration_number": "CA/2006/21919",
+    "name": "Dr. Jaswant Patel",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2006,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "628, Sector 17, Noida - 127122",
+    "raw_data": {
+      "sl": "87",
+      "name": "Dr. Jaswant Patel",
+      "reg_no": "CA/2006/21919",
+      "city": "Noida",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 88,
+    "registration_number": "CA/1989/22056",
+    "name": "Ar. Kavita Patel",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2001",
+    "registration_year": 1989,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "948, Sector 18, Nagpur - 290306",
+    "raw_data": {
+      "sl": "88",
+      "name": "Ar. Kavita Patel",
+      "reg_no": "CA/1989/22056",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2001",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 89,
+    "registration_number": "CA/2002/22193",
+    "name": "Dr. Jaswant Banerjee",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2025",
+    "registration_year": 2002,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Inactive",
+    "address": "338, Sector 43, Ghaziabad - 209681",
+    "raw_data": {
+      "sl": "89",
+      "name": "Dr. Jaswant Banerjee",
+      "reg_no": "CA/2002/22193",
+      "city": "Ghaziabad",
+      "valid_up_to": "31/12/2025",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 90,
+    "registration_number": "CA/1985/22330",
+    "name": "Ms. Suresh Ghosh",
+    "city": "Guwahati",
+    "state": "Assam",
+    "valid_up_to": "31/12/2004",
+    "registration_year": 1985,
+    "qualification": "B.Arch",
+    "status": "Inactive",
+    "address": "475, Sector 6, Guwahati - 429796",
+    "raw_data": {
+      "sl": "90",
+      "name": "Ms. Suresh Ghosh",
+      "reg_no": "CA/1985/22330",
+      "city": "Guwahati",
+      "valid_up_to": "31/12/2004",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 91,
+    "registration_number": "CA/1995/22467",
+    "name": "Ar. Divya Sharma",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1995,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "433, Sector 4, Coimbatore - 296695",
+    "raw_data": {
+      "sl": "91",
+      "name": "Ar. Divya Sharma",
+      "reg_no": "CA/1995/22467",
+      "city": "Coimbatore",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 92,
+    "registration_number": "CA/1998/22604",
+    "name": "Dr. Alok Bose",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2012",
+    "registration_year": 1998,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "959, Sector 19, Lucknow - 559399",
+    "raw_data": {
+      "sl": "92",
+      "name": "Dr. Alok Bose",
+      "reg_no": "CA/1998/22604",
+      "city": "Lucknow",
+      "valid_up_to": "31/12/2012",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 93,
+    "registration_number": "CA/2019/22741",
+    "name": "Dr. Praveen Verma",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2019,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "736, Sector 11, Dehradun - 425846",
+    "raw_data": {
+      "sl": "93",
+      "name": "Dr. Praveen Verma",
+      "reg_no": "CA/2019/22741",
+      "city": "Dehradun",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 94,
+    "registration_number": "CA/1975/22878",
+    "name": "Dr. Jaswant Kulkarni",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/1983",
+    "registration_year": 1975,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "673, Sector 10, Noida - 622585",
+    "raw_data": {
+      "sl": "94",
+      "name": "Dr. Jaswant Kulkarni",
+      "reg_no": "CA/1975/22878",
+      "city": "Noida",
+      "valid_up_to": "31/12/1983",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 95,
+    "registration_number": "CA/2020/23015",
+    "name": "Ms. Karthik Gupta",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2020,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "493, Sector 16, Shimla - 578976",
+    "raw_data": {
+      "sl": "95",
+      "name": "Ms. Karthik Gupta",
+      "reg_no": "CA/2020/23015",
+      "city": "Shimla",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 96,
+    "registration_number": "CA/1984/23152",
+    "name": "Dr. Arun Chavan",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/1989",
+    "registration_year": 1984,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "358, Sector 33, Noida - 380151",
+    "raw_data": {
+      "sl": "96",
+      "name": "Dr. Arun Chavan",
+      "reg_no": "CA/1984/23152",
+      "city": "Noida",
+      "valid_up_to": "31/12/1989",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 97,
+    "registration_number": "CA/1975/23289",
+    "name": "Ms. Priyanka Ghosh",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "valid_up_to": "31/12/1985",
+    "registration_year": 1975,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "363, Sector 22, Bhubaneswar - 678728",
+    "raw_data": {
+      "sl": "97",
+      "name": "Ms. Priyanka Ghosh",
+      "reg_no": "CA/1975/23289",
+      "city": "Bhubaneswar",
+      "valid_up_to": "31/12/1985",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 98,
+    "registration_number": "CA/2009/23426",
+    "name": "Dr. Swati Rao",
+    "city": "Patna",
+    "state": "Bihar",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 2009,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "249, Sector 50, Patna - 530729",
+    "raw_data": {
+      "sl": "98",
+      "name": "Dr. Swati Rao",
+      "reg_no": "CA/2009/23426",
+      "city": "Patna",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 99,
+    "registration_number": "CA/1995/23563",
+    "name": "Dr. Manoj Malhotra",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2005",
+    "registration_year": 1995,
+    "qualification": "B.Arch",
+    "status": "Inactive",
+    "address": "139, Sector 33, Pune - 718850",
+    "raw_data": {
+      "sl": "99",
+      "name": "Dr. Manoj Malhotra",
+      "reg_no": "CA/1995/23563",
+      "city": "Pune",
+      "valid_up_to": "31/12/2005",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 100,
+    "registration_number": "CA/1981/23700",
+    "name": "Dr. Inderjit Mukherjee",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/1982",
+    "registration_year": 1981,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "901, Sector 42, Kolkata - 261860",
+    "raw_data": {
+      "sl": "100",
+      "name": "Dr. Inderjit Mukherjee",
+      "reg_no": "CA/1981/23700",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/1982",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 101,
+    "registration_number": "CA/2005/23837",
+    "name": "Ms. Tanvi Saxena",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2011",
+    "registration_year": 2005,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "987, Sector 21, Nagpur - 757247",
+    "raw_data": {
+      "sl": "101",
+      "name": "Ms. Tanvi Saxena",
+      "reg_no": "CA/2005/23837",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2011",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 102,
+    "registration_number": "CA/2023/23974",
+    "name": "Dr. Hemant Patel",
+    "city": "Kochi",
+    "state": "Kerala",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2023,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "250, Sector 41, Kochi - 401339",
+    "raw_data": {
+      "sl": "102",
+      "name": "Dr. Hemant Patel",
+      "reg_no": "CA/2023/23974",
+      "city": "Kochi",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 103,
+    "registration_number": "CA/2022/24111",
+    "name": "Ar. Ritu Krishnadas",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2022,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "180, Sector 45, Chennai - 414013",
+    "raw_data": {
+      "sl": "103",
+      "name": "Ar. Ritu Krishnadas",
+      "reg_no": "CA/2022/24111",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 104,
+    "registration_number": "CA/1976/24248",
+    "name": "Ar. Vivek Bose",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "valid_up_to": "31/12/1995",
+    "registration_year": 1976,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Inactive",
+    "address": "451, Sector 10, Dehradun - 356060",
+    "raw_data": {
+      "sl": "104",
+      "name": "Ar. Vivek Bose",
+      "reg_no": "CA/1976/24248",
+      "city": "Dehradun",
+      "valid_up_to": "31/12/1995",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 105,
+    "registration_number": "CA/2001/24385",
+    "name": "Mr. Rohit Iyer",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2007",
+    "registration_year": 2001,
+    "qualification": "B.Arch (Hons)",
+    "status": "Inactive",
+    "address": "519, Sector 38, Lucknow - 250070",
+    "raw_data": {
+      "sl": "105",
+      "name": "Mr. Rohit Iyer",
+      "reg_no": "CA/2001/24385",
+      "city": "Lucknow",
+      "valid_up_to": "31/12/2007",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 106,
+    "registration_number": "CA/2004/24522",
+    "name": "Ms. Swati Shah",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2005",
+    "registration_year": 2004,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "703, Sector 35, Chennai - 265650",
+    "raw_data": {
+      "sl": "106",
+      "name": "Ms. Swati Shah",
+      "reg_no": "CA/2004/24522",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2005",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 107,
+    "registration_number": "CA/2003/24659",
+    "name": "Ms. Shalini Reddy",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2003,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "477, Sector 20, Nagpur - 308895",
+    "raw_data": {
+      "sl": "107",
+      "name": "Ms. Shalini Reddy",
+      "reg_no": "CA/2003/24659",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 108,
+    "registration_number": "CA/2005/24796",
+    "name": "Ar. Sneha Malhotra",
+    "city": "Surat",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2005,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "598, Sector 19, Surat - 409572",
+    "raw_data": {
+      "sl": "108",
+      "name": "Ar. Sneha Malhotra",
+      "reg_no": "CA/2005/24796",
+      "city": "Surat",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 109,
+    "registration_number": "CA/2017/24933",
+    "name": "Dr. Kavita Sharma",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2017,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "942, Sector 39, Mumbai - 620857",
+    "raw_data": {
+      "sl": "109",
+      "name": "Dr. Kavita Sharma",
+      "reg_no": "CA/2017/24933",
+      "city": "Mumbai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 110,
+    "registration_number": "CA/1993/25070",
+    "name": "Mr. Sunil Joshi",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "valid_up_to": "31/12/2008",
+    "registration_year": 1993,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "704, Sector 49, Bhubaneswar - 791202",
+    "raw_data": {
+      "sl": "110",
+      "name": "Mr. Sunil Joshi",
+      "reg_no": "CA/1993/25070",
+      "city": "Bhubaneswar",
+      "valid_up_to": "31/12/2008",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 111,
+    "registration_number": "CA/1983/25207",
+    "name": "Ar. Vikram Reddy",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2012",
+    "registration_year": 1983,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "759, Sector 9, Indore - 194512",
+    "raw_data": {
+      "sl": "111",
+      "name": "Ar. Vikram Reddy",
+      "reg_no": "CA/1983/25207",
+      "city": "Indore",
+      "valid_up_to": "31/12/2012",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 112,
+    "registration_number": "CA/1993/25344",
+    "name": "Ms. Suresh Iyer",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "valid_up_to": "31/12/2006",
+    "registration_year": 1993,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "553, Sector 33, Shimla - 385766",
+    "raw_data": {
+      "sl": "112",
+      "name": "Ms. Suresh Iyer",
+      "reg_no": "CA/1993/25344",
+      "city": "Shimla",
+      "valid_up_to": "31/12/2006",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 113,
+    "registration_number": "CA/1985/25481",
+    "name": "Ms. Abhay Agarwal",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "valid_up_to": "31/12/2007",
+    "registration_year": 1985,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Defaulter",
+    "address": "996, Sector 5, Bhubaneswar - 247595",
+    "raw_data": {
+      "sl": "113",
+      "name": "Ms. Abhay Agarwal",
+      "reg_no": "CA/1985/25481",
+      "city": "Bhubaneswar",
+      "valid_up_to": "31/12/2007",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 114,
+    "registration_number": "CA/1989/25618",
+    "name": "Dr. Rachna Kapoor",
+    "city": "Patna",
+    "state": "Bihar",
+    "valid_up_to": "31/12/1995",
+    "registration_year": 1989,
+    "qualification": "B.Arch",
+    "status": "Inactive",
+    "address": "280, Sector 35, Patna - 229593",
+    "raw_data": {
+      "sl": "114",
+      "name": "Dr. Rachna Kapoor",
+      "reg_no": "CA/1989/25618",
+      "city": "Patna",
+      "valid_up_to": "31/12/1995",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 115,
+    "registration_number": "CA/1998/25755",
+    "name": "Ms. Shalini Malhotra",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 1998,
+    "qualification": "B.Arch (Hons)",
+    "status": "Defaulter",
+    "address": "492, Sector 2, Jaipur - 749642",
+    "raw_data": {
+      "sl": "115",
+      "name": "Ms. Shalini Malhotra",
+      "reg_no": "CA/1998/25755",
+      "city": "Jaipur",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 116,
+    "registration_number": "CA/2010/25892",
+    "name": "Ms. Aparna Kulkarni",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "valid_up_to": "31/12/2015",
+    "registration_year": 2010,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "674, Sector 27, Dehradun - 222344",
+    "raw_data": {
+      "sl": "116",
+      "name": "Ms. Aparna Kulkarni",
+      "reg_no": "CA/2010/25892",
+      "city": "Dehradun",
+      "valid_up_to": "31/12/2015",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 117,
+    "registration_number": "CA/1977/26029",
+    "name": "Ar. Priyanka Ghosh",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "valid_up_to": "31/12/1985",
+    "registration_year": 1977,
+    "qualification": "B.Arch (Hons)",
+    "status": "Defaulter",
+    "address": "918, Sector 35, New Delhi - 242255",
+    "raw_data": {
+      "sl": "117",
+      "name": "Ar. Priyanka Ghosh",
+      "reg_no": "CA/1977/26029",
+      "city": "New Delhi",
+      "valid_up_to": "31/12/1985",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 118,
+    "registration_number": "CA/2004/26166",
+    "name": "Ms. Hemant Bhatia",
+    "city": "Surat",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2004,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Active",
+    "address": "916, Sector 27, Surat - 786736",
+    "raw_data": {
+      "sl": "118",
+      "name": "Ms. Hemant Bhatia",
+      "reg_no": "CA/2004/26166",
+      "city": "Surat",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 119,
+    "registration_number": "CA/2006/26303",
+    "name": "Dr. Kavita Patel",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2006,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "464, Sector 29, Nashik - 347583",
+    "raw_data": {
+      "sl": "119",
+      "name": "Dr. Kavita Patel",
+      "reg_no": "CA/2006/26303",
+      "city": "Nashik",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 120,
+    "registration_number": "CA/1998/26440",
+    "name": "Ar. Neha Joshi",
+    "city": "Guwahati",
+    "state": "Assam",
+    "valid_up_to": "31/12/2002",
+    "registration_year": 1998,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "204, Sector 8, Guwahati - 576806",
+    "raw_data": {
+      "sl": "120",
+      "name": "Ar. Neha Joshi",
+      "reg_no": "CA/1998/26440",
+      "city": "Guwahati",
+      "valid_up_to": "31/12/2002",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 121,
+    "registration_number": "CA/2017/26577",
+    "name": "Mr. Sunil Verma",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2021",
+    "registration_year": 2017,
+    "qualification": "B.Arch (Hons)",
+    "status": "Inactive",
+    "address": "138, Sector 37, Nagpur - 315174",
+    "raw_data": {
+      "sl": "121",
+      "name": "Mr. Sunil Verma",
+      "reg_no": "CA/2017/26577",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2021",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 122,
+    "registration_number": "CA/2023/26714",
+    "name": "Mr. Shalini Deshmukh",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2023,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "802, Sector 10, Nagpur - 724933",
+    "raw_data": {
+      "sl": "122",
+      "name": "Mr. Shalini Deshmukh",
+      "reg_no": "CA/2023/26714",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 123,
+    "registration_number": "CA/1992/26851",
+    "name": "Mr. Gajanand Shah",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2004",
+    "registration_year": 1992,
+    "qualification": "B.Arch",
+    "status": "Defaulter",
+    "address": "144, Sector 1, Mumbai - 475645",
+    "raw_data": {
+      "sl": "123",
+      "name": "Mr. Gajanand Shah",
+      "reg_no": "CA/1992/26851",
+      "city": "Mumbai",
+      "valid_up_to": "31/12/2004",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 124,
+    "registration_number": "CA/1990/26988",
+    "name": "Ms. Pooja Iyer",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "valid_up_to": "31/12/2007",
+    "registration_year": 1990,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Defaulter",
+    "address": "769, Sector 27, Ranchi - 651641",
+    "raw_data": {
+      "sl": "124",
+      "name": "Ms. Pooja Iyer",
+      "reg_no": "CA/1990/26988",
+      "city": "Ranchi",
+      "valid_up_to": "31/12/2007",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 125,
+    "registration_number": "CA/2022/27125",
+    "name": "Ar. Abhay Dutta",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2022,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "472, Sector 33, Nashik - 332312",
+    "raw_data": {
+      "sl": "125",
+      "name": "Ar. Abhay Dutta",
+      "reg_no": "CA/2022/27125",
+      "city": "Nashik",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 126,
+    "registration_number": "CA/2014/27262",
+    "name": "Ar. Bhavna Reddy",
+    "city": "Goa",
+    "state": "Goa",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2014,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "72, Sector 31, Goa - 521127",
+    "raw_data": {
+      "sl": "126",
+      "name": "Ar. Bhavna Reddy",
+      "reg_no": "CA/2014/27262",
+      "city": "Goa",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 127,
+    "registration_number": "CA/2018/27399",
+    "name": "Ar. Preeti Dutta",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2023",
+    "registration_year": 2018,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "632, Sector 10, Vadodara - 168873",
+    "raw_data": {
+      "sl": "127",
+      "name": "Ar. Preeti Dutta",
+      "reg_no": "CA/2018/27399",
+      "city": "Vadodara",
+      "valid_up_to": "31/12/2023",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 128,
+    "registration_number": "CA/1992/27536",
+    "name": "Ms. Manoj Agarwal",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 1992,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "822, Sector 45, New Delhi - 219972",
+    "raw_data": {
+      "sl": "128",
+      "name": "Ms. Manoj Agarwal",
+      "reg_no": "CA/1992/27536",
+      "city": "New Delhi",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 129,
+    "registration_number": "CA/2016/27673",
+    "name": "Mr. Ritu Dutta",
+    "city": "Guwahati",
+    "state": "Assam",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2016,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "357, Sector 30, Guwahati - 518099",
+    "raw_data": {
+      "sl": "129",
+      "name": "Mr. Ritu Dutta",
+      "reg_no": "CA/2016/27673",
+      "city": "Guwahati",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 130,
+    "registration_number": "CA/2021/27810",
+    "name": "Ar. Vivek Chopra",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2021,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "393, Sector 10, Vadodara - 597306",
+    "raw_data": {
+      "sl": "130",
+      "name": "Ar. Vivek Chopra",
+      "reg_no": "CA/2021/27810",
+      "city": "Vadodara",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 131,
+    "registration_number": "CA/1980/27947",
+    "name": "Ar. Jaswant Chopra",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/1987",
+    "registration_year": 1980,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "579, Sector 4, Nagpur - 714954",
+    "raw_data": {
+      "sl": "131",
+      "name": "Ar. Jaswant Chopra",
+      "reg_no": "CA/1980/27947",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/1987",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 132,
+    "registration_number": "CA/2010/28084",
+    "name": "Ms. Praveen Bhatia",
+    "city": "Goa",
+    "state": "Goa",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2010,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "898, Sector 47, Goa - 153946",
+    "raw_data": {
+      "sl": "132",
+      "name": "Ms. Praveen Bhatia",
+      "reg_no": "CA/2010/28084",
+      "city": "Goa",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 133,
+    "registration_number": "CA/1993/28221",
+    "name": "Ms. Siddharth Krishnadas",
+    "city": "Goa",
+    "state": "Goa",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1993,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "168, Sector 43, Goa - 605613",
+    "raw_data": {
+      "sl": "133",
+      "name": "Ms. Siddharth Krishnadas",
+      "reg_no": "CA/1993/28221",
+      "city": "Goa",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 134,
+    "registration_number": "CA/1981/28358",
+    "name": "Ms. Rachna Kapoor",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/1989",
+    "registration_year": 1981,
+    "qualification": "B.Arch (Hons)",
+    "status": "Inactive",
+    "address": "836, Sector 28, Chennai - 688216",
+    "raw_data": {
+      "sl": "134",
+      "name": "Ms. Rachna Kapoor",
+      "reg_no": "CA/1981/28358",
+      "city": "Chennai",
+      "valid_up_to": "31/12/1989",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 135,
+    "registration_number": "CA/2014/28495",
+    "name": "Ar. Sunil Gupta",
+    "city": "Patna",
+    "state": "Bihar",
+    "valid_up_to": "31/12/2016",
+    "registration_year": 2014,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "729, Sector 49, Patna - 423994",
+    "raw_data": {
+      "sl": "135",
+      "name": "Ar. Sunil Gupta",
+      "reg_no": "CA/2014/28495",
+      "city": "Patna",
+      "valid_up_to": "31/12/2016",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 136,
+    "registration_number": "CA/1996/28632",
+    "name": "Ms. Rajesh Iyer",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "valid_up_to": "31/12/2006",
+    "registration_year": 1996,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "155, Sector 48, Shimla - 763929",
+    "raw_data": {
+      "sl": "136",
+      "name": "Ms. Rajesh Iyer",
+      "reg_no": "CA/1996/28632",
+      "city": "Shimla",
+      "valid_up_to": "31/12/2006",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 137,
+    "registration_number": "CA/1980/28769",
+    "name": "Mr. Manoj Bhatia",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2010",
+    "registration_year": 1980,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "388, Sector 20, Mumbai - 440141",
+    "raw_data": {
+      "sl": "137",
+      "name": "Mr. Manoj Bhatia",
+      "reg_no": "CA/1980/28769",
+      "city": "Mumbai",
+      "valid_up_to": "31/12/2010",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 138,
+    "registration_number": "CA/2011/28906",
+    "name": "Ar. Sunanda Asthana",
+    "city": "Patna",
+    "state": "Bihar",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 2011,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "288, Sector 29, Patna - 794094",
+    "raw_data": {
+      "sl": "138",
+      "name": "Ar. Sunanda Asthana",
+      "reg_no": "CA/2011/28906",
+      "city": "Patna",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 139,
+    "registration_number": "CA/2006/29043",
+    "name": "Dr. Suresh Gupta",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2020",
+    "registration_year": 2006,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "450, Sector 8, Vadodara - 397006",
+    "raw_data": {
+      "sl": "139",
+      "name": "Dr. Suresh Gupta",
+      "reg_no": "CA/2006/29043",
+      "city": "Vadodara",
+      "valid_up_to": "31/12/2020",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 140,
+    "registration_number": "CA/2018/29180",
+    "name": "Dr. Bhavna Reddy",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2021",
+    "registration_year": 2018,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "623, Sector 4, Indore - 108061",
+    "raw_data": {
+      "sl": "140",
+      "name": "Dr. Bhavna Reddy",
+      "reg_no": "CA/2018/29180",
+      "city": "Indore",
+      "valid_up_to": "31/12/2021",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 141,
+    "registration_number": "CA/1994/29317",
+    "name": "Mr. Gajanand Shah",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/2013",
+    "registration_year": 1994,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "17, Sector 32, Mysore - 551575",
+    "raw_data": {
+      "sl": "141",
+      "name": "Mr. Gajanand Shah",
+      "reg_no": "CA/1994/29317",
+      "city": "Mysore",
+      "valid_up_to": "31/12/2013",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 142,
+    "registration_number": "CA/1983/29454",
+    "name": "Dr. Hemant Kulkarni",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/2016",
+    "registration_year": 1983,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "416, Sector 48, Bengaluru - 144358",
+    "raw_data": {
+      "sl": "142",
+      "name": "Dr. Hemant Kulkarni",
+      "reg_no": "CA/1983/29454",
+      "city": "Bengaluru",
+      "valid_up_to": "31/12/2016",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 143,
+    "registration_number": "CA/1976/29591",
+    "name": "Dr. Ananya Rao",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2013",
+    "registration_year": 1976,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "736, Sector 41, Vadodara - 537984",
+    "raw_data": {
+      "sl": "143",
+      "name": "Dr. Ananya Rao",
+      "reg_no": "CA/1976/29591",
+      "city": "Vadodara",
+      "valid_up_to": "31/12/2013",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 144,
+    "registration_number": "CA/1982/29728",
+    "name": "Dr. Pooja Rao",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/1993",
+    "registration_year": 1982,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Inactive",
+    "address": "100, Sector 28, Hyderabad - 211006",
+    "raw_data": {
+      "sl": "144",
+      "name": "Dr. Pooja Rao",
+      "reg_no": "CA/1982/29728",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/1993",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 145,
+    "registration_number": "CA/2002/29865",
+    "name": "Dr. Bhavna Chawney",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2002,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "773, Sector 22, Chennai - 332336",
+    "raw_data": {
+      "sl": "145",
+      "name": "Dr. Bhavna Chawney",
+      "reg_no": "CA/2002/29865",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 146,
+    "registration_number": "CA/2024/30002",
+    "name": "Mr. Ananya Ram",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2024,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "937, Sector 50, Kolkata - 466347",
+    "raw_data": {
+      "sl": "146",
+      "name": "Mr. Ananya Ram",
+      "reg_no": "CA/2024/30002",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 147,
+    "registration_number": "CA/2021/30139",
+    "name": "Mr. Sneha Krishnadas",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2021,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "212, Sector 12, Ahmedabad - 731662",
+    "raw_data": {
+      "sl": "147",
+      "name": "Mr. Sneha Krishnadas",
+      "reg_no": "CA/2021/30139",
+      "city": "Ahmedabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 148,
+    "registration_number": "CA/2023/30276",
+    "name": "Ar. Meera Ghosh",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2023,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "707, Sector 37, New Delhi - 774226",
+    "raw_data": {
+      "sl": "148",
+      "name": "Ar. Meera Ghosh",
+      "reg_no": "CA/2023/30276",
+      "city": "New Delhi",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 149,
+    "registration_number": "CA/2014/30413",
+    "name": "Ms. Vivek Asthana",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2014,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "490, Sector 29, Bhopal - 762056",
+    "raw_data": {
+      "sl": "149",
+      "name": "Ms. Vivek Asthana",
+      "reg_no": "CA/2014/30413",
+      "city": "Bhopal",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 150,
+    "registration_number": "CA/1992/30550",
+    "name": "Ar. Siddharth Singh",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/2012",
+    "registration_year": 1992,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "48, Sector 4, Hyderabad - 486650",
+    "raw_data": {
+      "sl": "150",
+      "name": "Ar. Siddharth Singh",
+      "reg_no": "CA/1992/30550",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/2012",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 151,
+    "registration_number": "CA/1993/30687",
+    "name": "Ar. Jaswant Malhotra",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "valid_up_to": "31/12/2023",
+    "registration_year": 1993,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Defaulter",
+    "address": "940, Sector 37, Bhubaneswar - 783502",
+    "raw_data": {
+      "sl": "151",
+      "name": "Ar. Jaswant Malhotra",
+      "reg_no": "CA/1993/30687",
+      "city": "Bhubaneswar",
+      "valid_up_to": "31/12/2023",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 152,
+    "registration_number": "CA/1995/30824",
+    "name": "Dr. Karthik Asthana",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/1999",
+    "registration_year": 1995,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "840, Sector 22, Mysore - 188426",
+    "raw_data": {
+      "sl": "152",
+      "name": "Dr. Karthik Asthana",
+      "reg_no": "CA/1995/30824",
+      "city": "Mysore",
+      "valid_up_to": "31/12/1999",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 153,
+    "registration_number": "CA/2016/30961",
+    "name": "Mr. Vikram Mehta",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2016,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "546, Sector 34, Lucknow - 739428",
+    "raw_data": {
+      "sl": "153",
+      "name": "Mr. Vikram Mehta",
+      "reg_no": "CA/2016/30961",
+      "city": "Lucknow",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 154,
+    "registration_number": "CA/1998/31098",
+    "name": "Ms. Rahul Malhotra",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/2025",
+    "registration_year": 1998,
+    "qualification": "B.Arch",
+    "status": "Inactive",
+    "address": "818, Sector 41, Bengaluru - 778749",
+    "raw_data": {
+      "sl": "154",
+      "name": "Ms. Rahul Malhotra",
+      "reg_no": "CA/1998/31098",
+      "city": "Bengaluru",
+      "valid_up_to": "31/12/2025",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 155,
+    "registration_number": "CA/1979/31235",
+    "name": "Ms. Inderjit Malhotra",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/1998",
+    "registration_year": 1979,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "351, Sector 6, Kolkata - 711047",
+    "raw_data": {
+      "sl": "155",
+      "name": "Ms. Inderjit Malhotra",
+      "reg_no": "CA/1979/31235",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/1998",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 156,
+    "registration_number": "CA/1984/31372",
+    "name": "Ms. Priyanka Saxena",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/1993",
+    "registration_year": 1984,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "582, Sector 25, Indore - 774752",
+    "raw_data": {
+      "sl": "156",
+      "name": "Ms. Priyanka Saxena",
+      "reg_no": "CA/1984/31372",
+      "city": "Indore",
+      "valid_up_to": "31/12/1993",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 157,
+    "registration_number": "CA/1996/31509",
+    "name": "Mr. Bhavna Chawney",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "valid_up_to": "31/12/2024",
+    "registration_year": 1996,
+    "qualification": "B.Arch",
+    "status": "Inactive",
+    "address": "381, Sector 20, Ranchi - 289020",
+    "raw_data": {
+      "sl": "157",
+      "name": "Mr. Bhavna Chawney",
+      "reg_no": "CA/1996/31509",
+      "city": "Ranchi",
+      "valid_up_to": "31/12/2024",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 158,
+    "registration_number": "CA/1988/31646",
+    "name": "Ms. Preeti Nair",
+    "city": "Goa",
+    "state": "Goa",
+    "valid_up_to": "31/12/2003",
+    "registration_year": 1988,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Defaulter",
+    "address": "89, Sector 19, Goa - 206054",
+    "raw_data": {
+      "sl": "158",
+      "name": "Ms. Preeti Nair",
+      "reg_no": "CA/1988/31646",
+      "city": "Goa",
+      "valid_up_to": "31/12/2003",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 159,
+    "registration_number": "CA/2024/31783",
+    "name": "Ar. Tanvi Chavan",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2024,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "167, Sector 11, Lucknow - 289631",
+    "raw_data": {
+      "sl": "159",
+      "name": "Ar. Tanvi Chavan",
+      "reg_no": "CA/2024/31783",
+      "city": "Lucknow",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 160,
+    "registration_number": "CA/2019/31920",
+    "name": "Mr. Alok Patel",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2019,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "702, Sector 47, Bhubaneswar - 349069",
+    "raw_data": {
+      "sl": "160",
+      "name": "Mr. Alok Patel",
+      "reg_no": "CA/2019/31920",
+      "city": "Bhubaneswar",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 161,
+    "registration_number": "CA/2014/32057",
+    "name": "Ms. Alok Kulkarni",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2014,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "326, Sector 31, Jaipur - 303441",
+    "raw_data": {
+      "sl": "161",
+      "name": "Ms. Alok Kulkarni",
+      "reg_no": "CA/2014/32057",
+      "city": "Jaipur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 162,
+    "registration_number": "CA/2018/32194",
+    "name": "Dr. Swati Agarwal",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2018,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "999, Sector 11, Ahmedabad - 309399",
+    "raw_data": {
+      "sl": "162",
+      "name": "Dr. Swati Agarwal",
+      "reg_no": "CA/2018/32194",
+      "city": "Ahmedabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 163,
+    "registration_number": "CA/2013/32331",
+    "name": "Mr. Amit Bose",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2013,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "577, Sector 7, Ranchi - 640971",
+    "raw_data": {
+      "sl": "163",
+      "name": "Mr. Amit Bose",
+      "reg_no": "CA/2013/32331",
+      "city": "Ranchi",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 164,
+    "registration_number": "CA/1982/32468",
+    "name": "Ms. Jaswant Mohan",
+    "city": "Guwahati",
+    "state": "Assam",
+    "valid_up_to": "31/12/2000",
+    "registration_year": 1982,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "860, Sector 28, Guwahati - 196169",
+    "raw_data": {
+      "sl": "164",
+      "name": "Ms. Jaswant Mohan",
+      "reg_no": "CA/1982/32468",
+      "city": "Guwahati",
+      "valid_up_to": "31/12/2000",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 165,
+    "registration_number": "CA/1989/32605",
+    "name": "Dr. Siddharth Verma",
+    "city": "Goa",
+    "state": "Goa",
+    "valid_up_to": "31/12/2016",
+    "registration_year": 1989,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "524, Sector 24, Goa - 347232",
+    "raw_data": {
+      "sl": "165",
+      "name": "Dr. Siddharth Verma",
+      "reg_no": "CA/1989/32605",
+      "city": "Goa",
+      "valid_up_to": "31/12/2016",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 166,
+    "registration_number": "CA/1980/32742",
+    "name": "Ms. Deepak Verma",
+    "city": "Surat",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2001",
+    "registration_year": 1980,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "820, Sector 10, Surat - 244284",
+    "raw_data": {
+      "sl": "166",
+      "name": "Ms. Deepak Verma",
+      "reg_no": "CA/1980/32742",
+      "city": "Surat",
+      "valid_up_to": "31/12/2001",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 167,
+    "registration_number": "CA/1993/32879",
+    "name": "Dr. Gajanand Banerjee",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 1993,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "29, Sector 17, Pune - 326131",
+    "raw_data": {
+      "sl": "167",
+      "name": "Dr. Gajanand Banerjee",
+      "reg_no": "CA/1993/32879",
+      "city": "Pune",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 168,
+    "registration_number": "CA/1984/33016",
+    "name": "Dr. Praveen Agarwal",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "valid_up_to": "31/12/2000",
+    "registration_year": 1984,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "58, Sector 16, Bhubaneswar - 540219",
+    "raw_data": {
+      "sl": "168",
+      "name": "Dr. Praveen Agarwal",
+      "reg_no": "CA/1984/33016",
+      "city": "Bhubaneswar",
+      "valid_up_to": "31/12/2000",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 169,
+    "registration_number": "CA/2014/33153",
+    "name": "Dr. Ananya Ram",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2014,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "657, Sector 33, Bhopal - 702981",
+    "raw_data": {
+      "sl": "169",
+      "name": "Dr. Ananya Ram",
+      "reg_no": "CA/2014/33153",
+      "city": "Bhopal",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 170,
+    "registration_number": "CA/2020/33290",
+    "name": "Mr. Rahul Chopra",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2021",
+    "registration_year": 2020,
+    "qualification": "B.Arch (Hons)",
+    "status": "Inactive",
+    "address": "594, Sector 27, Chennai - 296413",
+    "raw_data": {
+      "sl": "170",
+      "name": "Mr. Rahul Chopra",
+      "reg_no": "CA/2020/33290",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2021",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 171,
+    "registration_number": "CA/2017/33427",
+    "name": "Ar. Bhavna Kapoor",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 2017,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "904, Sector 31, Indore - 145650",
+    "raw_data": {
+      "sl": "171",
+      "name": "Ar. Bhavna Kapoor",
+      "reg_no": "CA/2017/33427",
+      "city": "Indore",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 172,
+    "registration_number": "CA/1999/33564",
+    "name": "Ms. Amit Verma",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 1999,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "256, Sector 47, Bhopal - 789024",
+    "raw_data": {
+      "sl": "172",
+      "name": "Ms. Amit Verma",
+      "reg_no": "CA/1999/33564",
+      "city": "Bhopal",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 173,
+    "registration_number": "CA/1981/33701",
+    "name": "Ms. Gajanand Patel",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2004",
+    "registration_year": 1981,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "860, Sector 50, Bhopal - 587193",
+    "raw_data": {
+      "sl": "173",
+      "name": "Ms. Gajanand Patel",
+      "reg_no": "CA/1981/33701",
+      "city": "Bhopal",
+      "valid_up_to": "31/12/2004",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 174,
+    "registration_number": "CA/2005/33838",
+    "name": "Mr. Gajanand Singh",
+    "city": "Kochi",
+    "state": "Kerala",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2005,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "310, Sector 13, Kochi - 145935",
+    "raw_data": {
+      "sl": "174",
+      "name": "Mr. Gajanand Singh",
+      "reg_no": "CA/2005/33838",
+      "city": "Kochi",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 175,
+    "registration_number": "CA/1987/33975",
+    "name": "Ar. Vivek Reddy",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "valid_up_to": "31/12/2020",
+    "registration_year": 1987,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "269, Sector 3, Ranchi - 778325",
+    "raw_data": {
+      "sl": "175",
+      "name": "Ar. Vivek Reddy",
+      "reg_no": "CA/1987/33975",
+      "city": "Ranchi",
+      "valid_up_to": "31/12/2020",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 176,
+    "registration_number": "CA/1993/34112",
+    "name": "Ms. Sunanda Menon",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/2011",
+    "registration_year": 1993,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "457, Sector 26, Mysore - 561098",
+    "raw_data": {
+      "sl": "176",
+      "name": "Ms. Sunanda Menon",
+      "reg_no": "CA/1993/34112",
+      "city": "Mysore",
+      "valid_up_to": "31/12/2011",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 177,
+    "registration_number": "CA/1999/34249",
+    "name": "Ms. Meera Ghosh",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1999,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "956, Sector 34, Dehradun - 379677",
+    "raw_data": {
+      "sl": "177",
+      "name": "Ms. Meera Ghosh",
+      "reg_no": "CA/1999/34249",
+      "city": "Dehradun",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 178,
+    "registration_number": "CA/1980/34386",
+    "name": "Dr. Jaswant Chopra",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "valid_up_to": "31/12/2019",
+    "registration_year": 1980,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "338, Sector 7, Ranchi - 183959",
+    "raw_data": {
+      "sl": "178",
+      "name": "Dr. Jaswant Chopra",
+      "reg_no": "CA/1980/34386",
+      "city": "Ranchi",
+      "valid_up_to": "31/12/2019",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 179,
+    "registration_number": "CA/2017/34523",
+    "name": "Ms. Priyanka Dutta",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2017,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "180, Sector 45, Kolkata - 565472",
+    "raw_data": {
+      "sl": "179",
+      "name": "Ms. Priyanka Dutta",
+      "reg_no": "CA/2017/34523",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 180,
+    "registration_number": "CA/2003/34660",
+    "name": "Ar. Siddharth Chopra",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2021",
+    "registration_year": 2003,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "697, Sector 41, Ahmedabad - 525943",
+    "raw_data": {
+      "sl": "180",
+      "name": "Ar. Siddharth Chopra",
+      "reg_no": "CA/2003/34660",
+      "city": "Ahmedabad",
+      "valid_up_to": "31/12/2021",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 181,
+    "registration_number": "CA/2007/34797",
+    "name": "Mr. Pooja Asthana",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2007,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "45, Sector 9, Ahmedabad - 170500",
+    "raw_data": {
+      "sl": "181",
+      "name": "Mr. Pooja Asthana",
+      "reg_no": "CA/2007/34797",
+      "city": "Ahmedabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 182,
+    "registration_number": "CA/2024/34934",
+    "name": "Ms. Neha Malhotra",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2024,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "629, Sector 10, Chennai - 571779",
+    "raw_data": {
+      "sl": "182",
+      "name": "Ms. Neha Malhotra",
+      "reg_no": "CA/2024/34934",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 183,
+    "registration_number": "CA/1998/35071",
+    "name": "Ms. Alok Singh",
+    "city": "Goa",
+    "state": "Goa",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1998,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Active",
+    "address": "552, Sector 24, Goa - 517369",
+    "raw_data": {
+      "sl": "183",
+      "name": "Ms. Alok Singh",
+      "reg_no": "CA/1998/35071",
+      "city": "Goa",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 184,
+    "registration_number": "CA/2016/35208",
+    "name": "Ms. Sneha Ram",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/2018",
+    "registration_year": 2016,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Defaulter",
+    "address": "540, Sector 25, Kolkata - 688957",
+    "raw_data": {
+      "sl": "184",
+      "name": "Ms. Sneha Ram",
+      "reg_no": "CA/2016/35208",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/2018",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 185,
+    "registration_number": "CA/1991/35345",
+    "name": "Ms. Alok Deshmukh",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1991,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "720, Sector 32, Nashik - 309903",
+    "raw_data": {
+      "sl": "185",
+      "name": "Ms. Alok Deshmukh",
+      "reg_no": "CA/1991/35345",
+      "city": "Nashik",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 186,
+    "registration_number": "CA/1983/35482",
+    "name": "Ar. Alok Iyer",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2012",
+    "registration_year": 1983,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "693, Sector 23, Nashik - 168094",
+    "raw_data": {
+      "sl": "186",
+      "name": "Ar. Alok Iyer",
+      "reg_no": "CA/1983/35482",
+      "city": "Nashik",
+      "valid_up_to": "31/12/2012",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 187,
+    "registration_number": "CA/2009/35619",
+    "name": "Ms. Priyanka Mohan",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2021",
+    "registration_year": 2009,
+    "qualification": "B.Arch (Hons)",
+    "status": "Inactive",
+    "address": "134, Sector 13, Noida - 245623",
+    "raw_data": {
+      "sl": "187",
+      "name": "Ms. Priyanka Mohan",
+      "reg_no": "CA/2009/35619",
+      "city": "Noida",
+      "valid_up_to": "31/12/2021",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 188,
+    "registration_number": "CA/2006/35756",
+    "name": "Ar. Neha Kapoor",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2006,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Active",
+    "address": "636, Sector 6, Chennai - 168942",
+    "raw_data": {
+      "sl": "188",
+      "name": "Ar. Neha Kapoor",
+      "reg_no": "CA/2006/35756",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 189,
+    "registration_number": "CA/2000/35893",
+    "name": "Dr. Bhavna Bhatia",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2000,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "138, Sector 21, Hyderabad - 773541",
+    "raw_data": {
+      "sl": "189",
+      "name": "Dr. Bhavna Bhatia",
+      "reg_no": "CA/2000/35893",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 190,
+    "registration_number": "CA/2003/36030",
+    "name": "Dr. Bhavna Joshi",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2012",
+    "registration_year": 2003,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Defaulter",
+    "address": "453, Sector 33, Nagpur - 158105",
+    "raw_data": {
+      "sl": "190",
+      "name": "Dr. Bhavna Joshi",
+      "reg_no": "CA/2003/36030",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2012",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 191,
+    "registration_number": "CA/1982/36167",
+    "name": "Mr. Priyanka Mohan",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "valid_up_to": "31/12/1993",
+    "registration_year": 1982,
+    "qualification": "B.Arch (Hons)",
+    "status": "Inactive",
+    "address": "364, Sector 34, Bhubaneswar - 397847",
+    "raw_data": {
+      "sl": "191",
+      "name": "Mr. Priyanka Mohan",
+      "reg_no": "CA/1982/36167",
+      "city": "Bhubaneswar",
+      "valid_up_to": "31/12/1993",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 192,
+    "registration_number": "CA/1980/36304",
+    "name": "Ms. Arun Gupta",
+    "city": "Guwahati",
+    "state": "Assam",
+    "valid_up_to": "31/12/1989",
+    "registration_year": 1980,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "524, Sector 42, Guwahati - 276828",
+    "raw_data": {
+      "sl": "192",
+      "name": "Ms. Arun Gupta",
+      "reg_no": "CA/1980/36304",
+      "city": "Guwahati",
+      "valid_up_to": "31/12/1989",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 193,
+    "registration_number": "CA/2012/36441",
+    "name": "Mr. Rohit Menon",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2012,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "855, Sector 2, Ghaziabad - 185169",
+    "raw_data": {
+      "sl": "193",
+      "name": "Mr. Rohit Menon",
+      "reg_no": "CA/2012/36441",
+      "city": "Ghaziabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 194,
+    "registration_number": "CA/2016/36578",
+    "name": "Ms. Sangeeta Bhatia",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2016,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "519, Sector 41, Pune - 672080",
+    "raw_data": {
+      "sl": "194",
+      "name": "Ms. Sangeeta Bhatia",
+      "reg_no": "CA/2016/36578",
+      "city": "Pune",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 195,
+    "registration_number": "CA/2016/36715",
+    "name": "Ms. Abhay Mehta",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2016,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "474, Sector 5, Hyderabad - 162824",
+    "raw_data": {
+      "sl": "195",
+      "name": "Ms. Abhay Mehta",
+      "reg_no": "CA/2016/36715",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 196,
+    "registration_number": "CA/2003/36852",
+    "name": "Dr. Abhay Mukherjee",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/2017",
+    "registration_year": 2003,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "330, Sector 46, Bengaluru - 434828",
+    "raw_data": {
+      "sl": "196",
+      "name": "Dr. Abhay Mukherjee",
+      "reg_no": "CA/2003/36852",
+      "city": "Bengaluru",
+      "valid_up_to": "31/12/2017",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 197,
+    "registration_number": "CA/1997/36989",
+    "name": "Dr. Gajanand Kapoor",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1997,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "336, Sector 16, Thiruvananthapuram - 589132",
+    "raw_data": {
+      "sl": "197",
+      "name": "Dr. Gajanand Kapoor",
+      "reg_no": "CA/1997/36989",
+      "city": "Thiruvananthapuram",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 198,
+    "registration_number": "CA/1992/37126",
+    "name": "Dr. Sneha Asthana",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/1999",
+    "registration_year": 1992,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "978, Sector 25, Nashik - 745271",
+    "raw_data": {
+      "sl": "198",
+      "name": "Dr. Sneha Asthana",
+      "reg_no": "CA/1992/37126",
+      "city": "Nashik",
+      "valid_up_to": "31/12/1999",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 199,
+    "registration_number": "CA/1990/37263",
+    "name": "Mr. Vivek Rao",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2003",
+    "registration_year": 1990,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Defaulter",
+    "address": "537, Sector 30, Vadodara - 622988",
+    "raw_data": {
+      "sl": "199",
+      "name": "Mr. Vivek Rao",
+      "reg_no": "CA/1990/37263",
+      "city": "Vadodara",
+      "valid_up_to": "31/12/2003",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 200,
+    "registration_number": "CA/1994/37400",
+    "name": "Dr. Pooja Chawney",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "valid_up_to": "31/12/2020",
+    "registration_year": 1994,
+    "qualification": "B.Arch (Hons)",
+    "status": "Inactive",
+    "address": "230, Sector 38, Dehradun - 470038",
+    "raw_data": {
+      "sl": "200",
+      "name": "Dr. Pooja Chawney",
+      "reg_no": "CA/1994/37400",
+      "city": "Dehradun",
+      "valid_up_to": "31/12/2020",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 201,
+    "registration_number": "CA/1978/37537",
+    "name": "Ms. Preeti Banerjee",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/1997",
+    "registration_year": 1978,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "451, Sector 9, Pune - 377320",
+    "raw_data": {
+      "sl": "201",
+      "name": "Ms. Preeti Banerjee",
+      "reg_no": "CA/1978/37537",
+      "city": "Pune",
+      "valid_up_to": "31/12/1997",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 202,
+    "registration_number": "CA/1998/37674",
+    "name": "Dr. Neha Patel",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "valid_up_to": "31/12/2024",
+    "registration_year": 1998,
+    "qualification": "B.Arch (Hons)",
+    "status": "Defaulter",
+    "address": "381, Sector 36, Thiruvananthapuram - 402621",
+    "raw_data": {
+      "sl": "202",
+      "name": "Dr. Neha Patel",
+      "reg_no": "CA/1998/37674",
+      "city": "Thiruvananthapuram",
+      "valid_up_to": "31/12/2024",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 203,
+    "registration_number": "CA/1999/37811",
+    "name": "Dr. Rachna Gupta",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1999,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Active",
+    "address": "141, Sector 7, Nagpur - 513038",
+    "raw_data": {
+      "sl": "203",
+      "name": "Dr. Rachna Gupta",
+      "reg_no": "CA/1999/37811",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 204,
+    "registration_number": "CA/1996/37948",
+    "name": "Ms. Nilesh Nair",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1996,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "522, Sector 3, Ahmedabad - 147505",
+    "raw_data": {
+      "sl": "204",
+      "name": "Ms. Nilesh Nair",
+      "reg_no": "CA/1996/37948",
+      "city": "Ahmedabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 205,
+    "registration_number": "CA/1983/38085",
+    "name": "Ms. Abhay Mukherjee",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/1993",
+    "registration_year": 1983,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Defaulter",
+    "address": "963, Sector 40, Pune - 434003",
+    "raw_data": {
+      "sl": "205",
+      "name": "Ms. Abhay Mukherjee",
+      "reg_no": "CA/1983/38085",
+      "city": "Pune",
+      "valid_up_to": "31/12/1993",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 206,
+    "registration_number": "CA/2000/38222",
+    "name": "Ms. Shalini Menon",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2000,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "735, Sector 37, Bengaluru - 414354",
+    "raw_data": {
+      "sl": "206",
+      "name": "Ms. Shalini Menon",
+      "reg_no": "CA/2000/38222",
+      "city": "Bengaluru",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 207,
+    "registration_number": "CA/1976/38359",
+    "name": "Ms. Tanvi Ram",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2003",
+    "registration_year": 1976,
+    "qualification": "B.Arch",
+    "status": "Inactive",
+    "address": "621, Sector 31, Jodhpur - 378429",
+    "raw_data": {
+      "sl": "207",
+      "name": "Ms. Tanvi Ram",
+      "reg_no": "CA/1976/38359",
+      "city": "Jodhpur",
+      "valid_up_to": "31/12/2003",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 208,
+    "registration_number": "CA/2016/38496",
+    "name": "Mr. Sunanda Banerjee",
+    "city": "Goa",
+    "state": "Goa",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2016,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "161, Sector 44, Goa - 353962",
+    "raw_data": {
+      "sl": "208",
+      "name": "Mr. Sunanda Banerjee",
+      "reg_no": "CA/2016/38496",
+      "city": "Goa",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 209,
+    "registration_number": "CA/2011/38633",
+    "name": "Ar. Arun Verma",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2011,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "438, Sector 10, Pune - 533021",
+    "raw_data": {
+      "sl": "209",
+      "name": "Ar. Arun Verma",
+      "reg_no": "CA/2011/38633",
+      "city": "Pune",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 210,
+    "registration_number": "CA/1988/38770",
+    "name": "Dr. Karthik Banerjee",
+    "city": "Kochi",
+    "state": "Kerala",
+    "valid_up_to": "31/12/1992",
+    "registration_year": 1988,
+    "qualification": "B.Arch (Hons)",
+    "status": "Defaulter",
+    "address": "584, Sector 21, Kochi - 794396",
+    "raw_data": {
+      "sl": "210",
+      "name": "Dr. Karthik Banerjee",
+      "reg_no": "CA/1988/38770",
+      "city": "Kochi",
+      "valid_up_to": "31/12/1992",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 211,
+    "registration_number": "CA/2008/38907",
+    "name": "Dr. Vivek Iyer",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2008,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "569, Sector 23, Jodhpur - 774559",
+    "raw_data": {
+      "sl": "211",
+      "name": "Dr. Vivek Iyer",
+      "reg_no": "CA/2008/38907",
+      "city": "Jodhpur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 212,
+    "registration_number": "CA/2019/39044",
+    "name": "Ms. Aparna Banerjee",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2019,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "295, Sector 36, Ranchi - 413000",
+    "raw_data": {
+      "sl": "212",
+      "name": "Ms. Aparna Banerjee",
+      "reg_no": "CA/2019/39044",
+      "city": "Ranchi",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 213,
+    "registration_number": "CA/1994/39181",
+    "name": "Ms. Sangeeta Ghosh",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2015",
+    "registration_year": 1994,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Inactive",
+    "address": "583, Sector 47, Chennai - 386742",
+    "raw_data": {
+      "sl": "213",
+      "name": "Ms. Sangeeta Ghosh",
+      "reg_no": "CA/1994/39181",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2015",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 214,
+    "registration_number": "CA/1982/39318",
+    "name": "Dr. Divya Joshi",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/1992",
+    "registration_year": 1982,
+    "qualification": "B.Arch",
+    "status": "Inactive",
+    "address": "304, Sector 46, Hyderabad - 182869",
+    "raw_data": {
+      "sl": "214",
+      "name": "Dr. Divya Joshi",
+      "reg_no": "CA/1982/39318",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/1992",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 215,
+    "registration_number": "CA/2003/39455",
+    "name": "Ms. Abhay Deshmukh",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2016",
+    "registration_year": 2003,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "150, Sector 7, Ahmedabad - 745585",
+    "raw_data": {
+      "sl": "215",
+      "name": "Ms. Abhay Deshmukh",
+      "reg_no": "CA/2003/39455",
+      "city": "Ahmedabad",
+      "valid_up_to": "31/12/2016",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 216,
+    "registration_number": "CA/2012/39592",
+    "name": "Mr. Sneha Bose",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2012,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "663, Sector 15, Thiruvananthapuram - 155041",
+    "raw_data": {
+      "sl": "216",
+      "name": "Mr. Sneha Bose",
+      "reg_no": "CA/2012/39592",
+      "city": "Thiruvananthapuram",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 217,
+    "registration_number": "CA/2001/39729",
+    "name": "Ms. Abhay Krishnadas",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2010",
+    "registration_year": 2001,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Defaulter",
+    "address": "426, Sector 42, Nashik - 598808",
+    "raw_data": {
+      "sl": "217",
+      "name": "Ms. Abhay Krishnadas",
+      "reg_no": "CA/2001/39729",
+      "city": "Nashik",
+      "valid_up_to": "31/12/2010",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 218,
+    "registration_number": "CA/2016/39866",
+    "name": "Mr. Rahul Rao",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2016,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "939, Sector 50, Jodhpur - 193807",
+    "raw_data": {
+      "sl": "218",
+      "name": "Mr. Rahul Rao",
+      "reg_no": "CA/2016/39866",
+      "city": "Jodhpur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 219,
+    "registration_number": "CA/2011/40003",
+    "name": "Mr. Hemant Patel",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2023",
+    "registration_year": 2011,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Inactive",
+    "address": "966, Sector 3, Bhopal - 516279",
+    "raw_data": {
+      "sl": "219",
+      "name": "Mr. Hemant Patel",
+      "reg_no": "CA/2011/40003",
+      "city": "Bhopal",
+      "valid_up_to": "31/12/2023",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 220,
+    "registration_number": "CA/2006/40140",
+    "name": "Mr. Rahul Patel",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "valid_up_to": "31/12/2007",
+    "registration_year": 2006,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "960, Sector 22, Ranchi - 398385",
+    "raw_data": {
+      "sl": "220",
+      "name": "Mr. Rahul Patel",
+      "reg_no": "CA/2006/40140",
+      "city": "Ranchi",
+      "valid_up_to": "31/12/2007",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 221,
+    "registration_number": "CA/2016/40277",
+    "name": "Dr. Gajanand Mukherjee",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2016,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "838, Sector 8, Jaipur - 446748",
+    "raw_data": {
+      "sl": "221",
+      "name": "Dr. Gajanand Mukherjee",
+      "reg_no": "CA/2016/40277",
+      "city": "Jaipur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 222,
+    "registration_number": "CA/2021/40414",
+    "name": "Dr. Amit Iyer",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 2021,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "591, Sector 44, Bengaluru - 302545",
+    "raw_data": {
+      "sl": "222",
+      "name": "Dr. Amit Iyer",
+      "reg_no": "CA/2021/40414",
+      "city": "Bengaluru",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 223,
+    "registration_number": "CA/2014/40551",
+    "name": "Dr. Ritu Rao",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "valid_up_to": "31/12/2020",
+    "registration_year": 2014,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Inactive",
+    "address": "199, Sector 9, Bengaluru - 600647",
+    "raw_data": {
+      "sl": "223",
+      "name": "Dr. Ritu Rao",
+      "reg_no": "CA/2014/40551",
+      "city": "Bengaluru",
+      "valid_up_to": "31/12/2020",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 224,
+    "registration_number": "CA/1990/40688",
+    "name": "Ar. Amit Malhotra",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/2006",
+    "registration_year": 1990,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "986, Sector 22, Kolkata - 416614",
+    "raw_data": {
+      "sl": "224",
+      "name": "Ar. Amit Malhotra",
+      "reg_no": "CA/1990/40688",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/2006",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 225,
+    "registration_number": "CA/2021/40825",
+    "name": "Ar. Amit Kapoor",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2021,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "693, Sector 8, Ghaziabad - 588003",
+    "raw_data": {
+      "sl": "225",
+      "name": "Ar. Amit Kapoor",
+      "reg_no": "CA/2021/40825",
+      "city": "Ghaziabad",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 226,
+    "registration_number": "CA/1985/40962",
+    "name": "Dr. Karthik Reddy",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/1993",
+    "registration_year": 1985,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Inactive",
+    "address": "639, Sector 15, Hyderabad - 329773",
+    "raw_data": {
+      "sl": "226",
+      "name": "Dr. Karthik Reddy",
+      "reg_no": "CA/1985/40962",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/1993",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 227,
+    "registration_number": "CA/1983/41099",
+    "name": "Dr. Nilesh Mukherjee",
+    "city": "Goa",
+    "state": "Goa",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 1983,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "728, Sector 36, Goa - 593700",
+    "raw_data": {
+      "sl": "227",
+      "name": "Dr. Nilesh Mukherjee",
+      "reg_no": "CA/1983/41099",
+      "city": "Goa",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 228,
+    "registration_number": "CA/2009/41236",
+    "name": "Mr. Sneha Chawney",
+    "city": "Patna",
+    "state": "Bihar",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2009,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Active",
+    "address": "550, Sector 46, Patna - 479359",
+    "raw_data": {
+      "sl": "228",
+      "name": "Mr. Sneha Chawney",
+      "reg_no": "CA/2009/41236",
+      "city": "Patna",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 229,
+    "registration_number": "CA/2011/41373",
+    "name": "Ar. Sunanda Nair",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2011,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Active",
+    "address": "178, Sector 21, Nagpur - 645618",
+    "raw_data": {
+      "sl": "229",
+      "name": "Ar. Sunanda Nair",
+      "reg_no": "CA/2011/41373",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 230,
+    "registration_number": "CA/1982/41510",
+    "name": "Mr. Shalini Ghosh",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/1988",
+    "registration_year": 1982,
+    "qualification": "B.Arch",
+    "status": "Inactive",
+    "address": "474, Sector 9, Jaipur - 638180",
+    "raw_data": {
+      "sl": "230",
+      "name": "Mr. Shalini Ghosh",
+      "reg_no": "CA/1982/41510",
+      "city": "Jaipur",
+      "valid_up_to": "31/12/1988",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 231,
+    "registration_number": "CA/2004/41647",
+    "name": "Ar. Rachna Mukherjee",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2024",
+    "registration_year": 2004,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "270, Sector 1, Vadodara - 328487",
+    "raw_data": {
+      "sl": "231",
+      "name": "Ar. Rachna Mukherjee",
+      "reg_no": "CA/2004/41647",
+      "city": "Vadodara",
+      "valid_up_to": "31/12/2024",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 232,
+    "registration_number": "CA/1979/41784",
+    "name": "Ar. Ritu Joshi",
+    "city": "Ghaziabad",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/1984",
+    "registration_year": 1979,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "966, Sector 31, Ghaziabad - 133277",
+    "raw_data": {
+      "sl": "232",
+      "name": "Ar. Ritu Joshi",
+      "reg_no": "CA/1979/41784",
+      "city": "Ghaziabad",
+      "valid_up_to": "31/12/1984",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 233,
+    "registration_number": "CA/2001/41921",
+    "name": "Mr. Gajanand Bhatia",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "valid_up_to": "31/12/2025",
+    "registration_year": 2001,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Inactive",
+    "address": "900, Sector 25, Hyderabad - 493893",
+    "raw_data": {
+      "sl": "233",
+      "name": "Mr. Gajanand Bhatia",
+      "reg_no": "CA/2001/41921",
+      "city": "Hyderabad",
+      "valid_up_to": "31/12/2025",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 234,
+    "registration_number": "CA/2018/42058",
+    "name": "Mr. Siddharth Ram",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2018,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "551, Sector 9, Nagpur - 333508",
+    "raw_data": {
+      "sl": "234",
+      "name": "Mr. Siddharth Ram",
+      "reg_no": "CA/2018/42058",
+      "city": "Nagpur",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 235,
+    "registration_number": "CA/1975/42195",
+    "name": "Ar. Priyanka Mukherjee",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "valid_up_to": "31/12/2010",
+    "registration_year": 1975,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "853, Sector 15, Bhubaneswar - 359536",
+    "raw_data": {
+      "sl": "235",
+      "name": "Ar. Priyanka Mukherjee",
+      "reg_no": "CA/1975/42195",
+      "city": "Bhubaneswar",
+      "valid_up_to": "31/12/2010",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 236,
+    "registration_number": "CA/1997/42332",
+    "name": "Mr. Kavita Nair",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2005",
+    "registration_year": 1997,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "639, Sector 50, Jaipur - 116406",
+    "raw_data": {
+      "sl": "236",
+      "name": "Mr. Kavita Nair",
+      "reg_no": "CA/1997/42332",
+      "city": "Jaipur",
+      "valid_up_to": "31/12/2005",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 237,
+    "registration_number": "CA/1988/42469",
+    "name": "Ar. Inderjit Patel",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2017",
+    "registration_year": 1988,
+    "qualification": "B.Arch (Hons)",
+    "status": "Defaulter",
+    "address": "768, Sector 3, Chennai - 521806",
+    "raw_data": {
+      "sl": "237",
+      "name": "Ar. Inderjit Patel",
+      "reg_no": "CA/1988/42469",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2017",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 238,
+    "registration_number": "CA/1989/42606",
+    "name": "Mr. Sunanda Chavan",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "valid_up_to": "31/12/2022",
+    "registration_year": 1989,
+    "qualification": "B.Arch (Hons)",
+    "status": "Inactive",
+    "address": "845, Sector 47, Jaipur - 704096",
+    "raw_data": {
+      "sl": "238",
+      "name": "Mr. Sunanda Chavan",
+      "reg_no": "CA/1989/42606",
+      "city": "Jaipur",
+      "valid_up_to": "31/12/2022",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 239,
+    "registration_number": "CA/2011/42743",
+    "name": "Ms. Sneha Reddy",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/2021",
+    "registration_year": 2011,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "317, Sector 18, Kolkata - 163919",
+    "raw_data": {
+      "sl": "239",
+      "name": "Ms. Sneha Reddy",
+      "reg_no": "CA/2011/42743",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/2021",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 240,
+    "registration_number": "CA/2012/42880",
+    "name": "Mr. Ritu Ghosh",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2016",
+    "registration_year": 2012,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Inactive",
+    "address": "814, Sector 34, Noida - 434218",
+    "raw_data": {
+      "sl": "240",
+      "name": "Mr. Ritu Ghosh",
+      "reg_no": "CA/2012/42880",
+      "city": "Noida",
+      "valid_up_to": "31/12/2016",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 241,
+    "registration_number": "CA/2001/43017",
+    "name": "Dr. Nilesh Reddy",
+    "city": "Kochi",
+    "state": "Kerala",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2001,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Defaulter",
+    "address": "256, Sector 15, Kochi - 415345",
+    "raw_data": {
+      "sl": "241",
+      "name": "Dr. Nilesh Reddy",
+      "reg_no": "CA/2001/43017",
+      "city": "Kochi",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 242,
+    "registration_number": "CA/2020/43154",
+    "name": "Mr. Swati Bose",
+    "city": "Guwahati",
+    "state": "Assam",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2020,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "436, Sector 36, Guwahati - 655737",
+    "raw_data": {
+      "sl": "242",
+      "name": "Mr. Swati Bose",
+      "reg_no": "CA/2020/43154",
+      "city": "Guwahati",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 243,
+    "registration_number": "CA/1999/43291",
+    "name": "Mr. Amit Deshmukh",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "valid_up_to": "31/12/2021",
+    "registration_year": 1999,
+    "qualification": "All India Diploma in Architecture",
+    "status": "Defaulter",
+    "address": "877, Sector 24, New Delhi - 196956",
+    "raw_data": {
+      "sl": "243",
+      "name": "Mr. Amit Deshmukh",
+      "reg_no": "CA/1999/43291",
+      "city": "New Delhi",
+      "valid_up_to": "31/12/2021",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 244,
+    "registration_number": "CA/2021/43428",
+    "name": "Mr. Sunanda Gupta",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2021,
+    "qualification": "B.Arch",
+    "status": "Active",
+    "address": "904, Sector 5, Noida - 297304",
+    "raw_data": {
+      "sl": "244",
+      "name": "Mr. Sunanda Gupta",
+      "reg_no": "CA/2021/43428",
+      "city": "Noida",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 245,
+    "registration_number": "CA/2023/43565",
+    "name": "Mr. Abhay Deshmukh",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2023,
+    "qualification": "G.D. Arch",
+    "status": "Active",
+    "address": "989, Sector 1, Ranchi - 322097",
+    "raw_data": {
+      "sl": "245",
+      "name": "Mr. Abhay Deshmukh",
+      "reg_no": "CA/2023/43565",
+      "city": "Ranchi",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 246,
+    "registration_number": "CA/1987/43702",
+    "name": "Ar. Abhay Mehta",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 1987,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Defaulter",
+    "address": "947, Sector 16, Shimla - 678898",
+    "raw_data": {
+      "sl": "246",
+      "name": "Ar. Abhay Mehta",
+      "reg_no": "CA/1987/43702",
+      "city": "Shimla",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 247,
+    "registration_number": "CA/2024/43839",
+    "name": "Ms. Manoj Mukherjee",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2024,
+    "qualification": "M.Arch (Conservation)",
+    "status": "Active",
+    "address": "325, Sector 17, Kolkata - 477115",
+    "raw_data": {
+      "sl": "247",
+      "name": "Ms. Manoj Mukherjee",
+      "reg_no": "CA/2024/43839",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 248,
+    "registration_number": "CA/2006/43976",
+    "name": "Dr. Inderjit Banerjee",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2006,
+    "qualification": "B.Arch (Hons)",
+    "status": "Active",
+    "address": "389, Sector 21, Lucknow - 534038",
+    "raw_data": {
+      "sl": "248",
+      "name": "Dr. Inderjit Banerjee",
+      "reg_no": "CA/2006/43976",
+      "city": "Lucknow",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 249,
+    "registration_number": "CA/2011/44113",
+    "name": "Mr. Nilesh Verma",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2011,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "312, Sector 10, Pune - 305722",
+    "raw_data": {
+      "sl": "249",
+      "name": "Mr. Nilesh Verma",
+      "reg_no": "CA/2011/44113",
+      "city": "Pune",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 250,
+    "registration_number": "CA/1989/44250",
+    "name": "Dr. Ashok Mehta",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "valid_up_to": "31/12/2021",
+    "registration_year": 1989,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "791, Sector 32, Kolkata - 772866",
+    "raw_data": {
+      "sl": "250",
+      "name": "Dr. Ashok Mehta",
+      "reg_no": "CA/1989/44250",
+      "city": "Kolkata",
+      "valid_up_to": "31/12/2021",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 251,
+    "registration_number": "CA/1982/10137",
+    "name": "Ar. Kavita Mehta",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/1997",
+    "registration_year": 1982,
+    "qualification": "M.Arch (Urban Design)",
+    "status": "Defaulter",
+    "address": "702, Sector 48, Bhopal - 671859",
+    "raw_data": {
+      "sl": "1",
+      "name": "Ar. Kavita Mehta",
+      "reg_no": "CA/1982/10137",
+      "city": "Bhopal",
+      "valid_up_to": "31/12/1997",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 252,
+    "registration_number": "CA/2022/11507",
+    "name": "Ms. Shalini Chopra",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2022,
+    "qualification": "M.Arch (Sustainable)",
+    "status": "Active",
+    "address": "380, Sector 15, Chennai - 245052",
+    "raw_data": {
+      "sl": "11",
+      "name": "Ms. Shalini Chopra",
+      "reg_no": "CA/2022/11507",
+      "city": "Chennai",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 253,
+    "registration_number": "CA/1989/12877",
+    "name": "Ar. Vikram Menon",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "valid_up_to": "31/12/1994",
+    "registration_year": 1989,
+    "qualification": "G.D. Arch",
+    "status": "Defaulter",
+    "address": "695, Sector 32, Pune - 324644",
+    "raw_data": {
+      "sl": "21",
+      "name": "Ar. Vikram Menon",
+      "reg_no": "CA/1989/12877",
+      "city": "Pune",
+      "valid_up_to": "31/12/1994",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 254,
+    "registration_number": "CA/2020/14247",
+    "name": "Ms. Sneha Shah",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "valid_up_to": "31/12/2026",
+    "registration_year": 2020,
+    "qualification": "M.Arch (Landscape)",
+    "status": "Active",
+    "address": "697, Sector 42, Indore - 414570",
+    "raw_data": {
+      "sl": "31",
+      "name": "Ms. Sneha Shah",
+      "reg_no": "CA/2020/14247",
+      "city": "Indore",
+      "valid_up_to": "31/12/2026",
+      "source": "Council of Architecture Directory"
+    }
+  },
+  {
+    "serial_no": 255,
+    "registration_number": "CA/1977/15617",
+    "name": "Dr. Deepak Nair",
+    "city": "Surat",
+    "state": "Gujarat",
+    "valid_up_to": "31/12/2007",
+    "registration_year": 1977,
+    "qualification": "G.D. Arch",
+    "status": "Inactive",
+    "address": "850, Sector 15, Surat - 333753",
+    "raw_data": {
+      "sl": "41",
+      "name": "Dr. Deepak Nair",
+      "reg_no": "CA/1977/15617",
+      "city": "Surat",
+      "valid_up_to": "31/12/2007",
+      "source": "Council of Architecture Directory"
+    }
+  }
+]

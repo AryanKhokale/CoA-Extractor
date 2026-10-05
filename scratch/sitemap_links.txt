@@ -1,0 +1,883 @@
+Help -> index1.php?layout=&lang=1&level=0&linkid=33&lid=34
+FAQ,s -> index1.php?lang=1&level=0&linkid=5&lid=6
+FAQs -> frequently_asked_question.php
+Contact Us -> index1.php?lang=1&level=0&linkid=28&lid=29
+Sitemap -> sitemap.php?lang=1&level=0&linkid=30&lid=31
+Skip to Main Content -> #maincontent
+Screen Reader -> index1.php?lang=1&level=0&linkid=16&lid=17
+A- -> #
+A -> #
+A+ -> #
+ -> javascript:setColor(
+ -> javascript:setColor(
+ -> javascript:setColor(
+Login -> javascript:void(0);
+&nbsp; | &nbsp; FAQs -> frequently_asked_question.php
+&nbsp; | &nbsp;  View Cart -> cart_detail.php?lang=1&EncHid=
+&nbsp; | &nbsp;  New Institution SignUp -> app/online_registration.php?lang=1
+Council of ArchitectureMinistry of Education, Government of India -> index.php
+ -> index.php
+About Us -> index1.php?lang=1&amp;level=0&amp;linkid=3&amp;lid=4
+Office Bearers -> home_present_vice_presidents.php?lang=1&amp;level=1&amp;sublinkid=999&amp;lid=789
+Council Members -> member_list.php?lang=1&amp;level=1&amp;sublinkid=919&amp;lid=253
+Statutory Committees -> statutory_committees.php?lang=1&amp;level=1&amp;sublinkid=995&amp;lid=781
+Other Committees -> Other_Committees.php?lang=1&amp;level=1&amp;sublinkid=998&amp;lid=779
+Sub Committees -> other_sub_committees.php?lang=1&amp;level=1&amp;sublinkid=996&amp;lid=813
+Who's Who -> who_is_who.php?lang=1&amp;level=1&amp;sublinkid=997&amp;lid=780
+E-Services -> index1.php?lang=1&amp;level=0&amp;linkid=168&amp;lid=746
+Mobile/Email Updation by Architects -> update_arch_comm_mobile.php?lang=1&amp;level=1&amp;sublinkid=1508&amp;lid=1388
+Registration As an Architect -> index1.php?layout=&amp;lang=1&amp;level=1&amp;sublinkid=926&amp;lid=814
+Email Updation by Architects -> update_arch_communication_email.php?lang=1&amp;level=1&amp;sublinkid=1099&amp;lid=972
+Renewal  of  Registration -> index1.php?layout=&amp;lang=1&amp;level=1&amp;sublinkid=927&amp;lid=747
+Online Directory Of Architects -> search_arch.php?lang=1&amp;level=1&amp;sublinkid=925&amp;lid=289
+Architectural Institutions -> architectural_institutions.php?lang=1&amp;level=1&amp;sublinkid=924&amp;lid=793
+Tutorial Videos -> tutorials.php?lang=1&amp;level=1&amp;sublinkid=1097&amp;lid=969
+Foreign Qualification -> showlink.php?layout=&amp;lang=1&level=1&sublinkid=1201&lid=1072
+PGETA 2024 Score Verification -> showlink.php?layout=&amp;lang=1&level=1&sublinkid=1465&lid=1353
+Download CoA Mobile App -> showlink.php?layout=&amp;lang=1&level=1&sublinkid=1470&lid=1358
+Forms Download -> index1.php?lang=1&amp;level=0&amp;linkid=4&amp;lid=5
+EDS Application Form -> showfile.php?layout=&amp;lang=1&lid=1463
+Application Form for Issuance of New Format Certificate -> showfile.php?layout=&amp;lang=1&lid=1439
+Forms for Registered Architects -> index1.php?layout=&amp;lang=1&amp;level=1&amp;sublinkid=175&amp;lid=193
+Form for Change of Name -> showfile.php?layout=&amp;lang=1&lid=188
+Form for Extension of Validity of Renewal -> showfile.php?layout=&amp;lang=1&lid=189
+Application/Specimen Affidavit for Duplicate Certificate -> showfile.php?layout=&amp;lang=1&lid=190
+Application/Specimen Affidavit for Change of Name -> showfile.php?layout=&amp;lang=1&lid=191
+Forms for Payment of Renewal Fee -> showfile.php?layout=&amp;lang=1&lid=192
+Application form for issuance of Duplicate Certificate of Registration -> showfile.php?layout=&amp;lang=1&lid=315
+Application form for NCARB Certification,Credential Verification -> showfile.php?layout=&amp;lang=1&lid=878
+Application form for removal of name from the register -> showfile.php?layout=&amp;lang=1&lid=879
+Form for Signature & Photo Verification -> showfile.php?layout=&amp;lang=1&lid=880
+Application for Issuance of Digital New Certificate of Registration -> showfile.php?layout=&amp;lang=1&lid=1389
+Complaint Form XIV, Complaint against Architect -> showfile.php?layout=&amp;lang=1&lid=309
+Forms for  Architectural Institutions -> showfile.php?layout=&amp;lang=1&lid=423
+Application Form for Foreign Architectural Qualification -> showfile.php?layout=&amp;lang=1&lid=905
+Forms related to Election in COA -> index1.php?layout=&amp;lang=1&amp;level=1&amp;sublinkid=152&amp;lid=165
+Form I : Nomination Paper -> showfile.php?layout=&amp;lang=1&lid=166
+Form II : Voting Paper -> showfile.php?layout=&amp;lang=1&lid=167
+Form III : Declaration Paper -> showfile.php?layout=&amp;lang=1&lid=168
+Form IV : Letter of Intimation -> showfile.php?layout=&amp;lang=1&lid=169
+Form V : Result of Counting -> showfile.php?layout=&amp;lang=1&lid=171
+Form VI : Certificate of Election -> showfile.php?layout=&amp;lang=1&lid=172
+Form VII : Election of President / Vice-President -> showfile.php?layout=&amp;lang=1&lid=173
+Form VIII : Election of President / Vice-President -> showfile.php?layout=&amp;lang=1&lid=174
+Form IX : Election of Member of the Executive Committee of the Council -> showfile.php?layout=&amp;lang=1&lid=170
+Form X : Election of Member of the Executive Committee of the Council -> showfile.php?layout=&amp;lang=1&lid=175
+Information regarding Application form for Registration as an Architect -> showfile.php?layout=&amp;lang=1&lid=176
+Form XII : Certificate of Registration -> showfile.php?layout=&amp;lang=1&lid=177
+Form XIV : Form of Complaint -> showfile.php?layout=&amp;lang=1&lid=179
+Forms for TA/ Honorarium -> index1.php?layout=&amp;lang=1&amp;level=1&amp;sublinkid=141&amp;lid=154
+TA, DA & Hon. Form for Inspection (For Experts) -> showfile.php?layout=&amp;lang=1&lid=164
+Helpdesk -> index1.php?lang=1&amp;level=0&amp;linkid=220&amp;lid=1105
+Raise Ticket -> https://ecoa.in/samarthaya/public/requestQuery?lang=1&amp;level=1&amp;sublinkid=1317&amp;lid=1189
+Check Ticket Response -> https://ecoa.in/samarthaya/public/checkresponseQuery?lang=1&amp;level=1&amp;sublinkid=1318&amp;lid=1191
+Defaulters List -> https://coa.gov.in/default_arch.php
+Photo Gallery -> https://coa.kwikpic.in
+For New Academic Link. Click Here.... -> https://ecoa.in/academic/public/
+Click Here for Exclusively Designed Insurance Policies for Architects.... -> https://insurance.kmdastur.com/architect
+ -> https://api.whatsapp.com/send?phone=917042939122&amp;text=I have a Query.Kindly,Help.
+Click Here -> https://api.whatsapp.com/send?phone=917042939122&amp;text=I have a Query.Kindly,Help.
+ -> https://api.whatsapp.com/send?phone=917042939122&amp;text=I have a Query.Kindly,Help.
+For New Academic Link. Click Here.... -> https://ecoa.in/academic/public/
+Click Here for Exclusively Designed Insurance Policies for Architects.... -> https://insurance.kmdastur.com/architect
+Home -> new_web.php
+About Us -> index1.php?lang=1&amp;level=0&amp;linkid=3&amp;lid=4
+E-Services -> index1.php?lang=1&amp;level=0&amp;linkid=168&amp;lid=746
+Forms Download -> index1.php?lang=1&amp;level=0&amp;linkid=4&amp;lid=5
+Helpdesk -> index1.php?lang=1&amp;level=0&amp;linkid=220&amp;lid=1105
+ -> print_sitemap.php?lang=1
+About Us -> index1.php?lang=1&amp;level=0&amp;lid=4&amp;linkid=3
+Office Bearers -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=999&amp;lid=789
+Council Members -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=919&amp;lid=253
+Statutory Committees -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=995&amp;lid=781
+Other Committees -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=998&amp;lid=779
+Sub Committees -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=996&amp;lid=813
+Who's Who -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=997&amp;lid=780
+Act, Rules & Regulations -> index1.php?lang=1&amp;level=0&amp;lid=10&amp;linkid=6
+Vacancy Notification Under Section 3 (3)(c) dated 20.11.2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1476&amp;lid=1364
+DC Notification dated 20.11.2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1475&amp;lid=1363
+Gazette Notification Dated 20.8.2024 - Nomination of States -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1439&amp;lid=1327
+Gazette Notification 25.08.23 COA Rules Amendment - Nomination -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1438&amp;lid=1326
+COA Gazette Aug 2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1430&amp;lid=1314
+Recognised Architectural Qualifications -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1340&amp;lid=1216
+COA Minimum Standards of Architectural Education Guidelines for Diploma Course 2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1380&amp;lid=1051
+Minimum Standards of Architectural Education Guidelines for Post Graduate Programme,2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1379&amp;lid=1116
+COA Circular - Career Advancement Scheme (CAS)-17.11.2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1378&amp;lid=1106
+The Architects Act 1972 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1144&amp;lid=1022
+Conditions of Engagement and scale of charges -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=1020&amp;lid=271
+Regulations - 1982 -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=128&amp;lid=142
+COA Rules - 1973 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=994&amp;lid=874
+COA Regulations- 1982 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1004&amp;lid=773
+COA (Minimum Standards of Architectural Education) Regulations, 1983 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=207&amp;lid=151
+Architects (Professional Conduct) Regulations 1989 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=208&amp;lid=152
+COA (Minimum Standards of Architectural Education) Regulations, 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1003&amp;lid=599
+Welcome to Council of Architecture -> index1.php?lang=1&amp;level=0&amp;lid=14&amp;linkid=13
+News & Highlights -> index1.php?lang=1&amp;level=0&amp;lid=15&amp;linkid=14
+TOP 50 PGETA Scholars 2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1632&amp;lid=1510
+MOE Notice for conduct of elections of President & Vice President -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1631&amp;lid=1509
+PGETA Entrance Test -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1630&amp;lid=1508
+Advt. for Director-deputy director-Asst director COA TRCs -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1629&amp;lid=1507
+Padma Awards Letter -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1627&amp;lid=1505
+NOTICE TO ALL INSTITUTIONS DATED 11.03.2026 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1621&amp;lid=1500
+NATA BROCHURE 2026 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1624&amp;lid=1503
+NATA 2026 TEST CENTER MANUAL FINAL -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1615&amp;lid=1494
+NATA Public Notice 2026 (English) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1613&amp;lid=1492
+NATA Public Notice 2026 (Hindi) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1614&amp;lid=1493
+MoE Notification dated 23.02.2026 final list of candidates for election under section 3(3)(c) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1609&amp;lid=1486
+MOU between COA & IPA -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1610&amp;lid=1489
+Invitation for EOI for NATA 2026 Test Centre -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1611&amp;lid=1490
+COA Circular letter dt.23.02.2026 last date for submission of online appl. form-2026-27 Revised -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1607&amp;lid=1484
+COA Circular letter dt.16.02.2026 - Last Date for Submission of Online Appl. form 2026-27- Revised -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1606&amp;lid=1483
+MoE notice dated 12.02.2026 regarding valid nominations for election of Heads of Institutions. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1604&amp;lid=1481
+MoE notice dated 12.02.2026 regarding valid nominations for election of Heads of Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1605&amp;lid=1482
+COA Annual Report 2024-25 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1603&amp;lid=1480
+Bharat Buildcon 2026 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1602&amp;lid=1479
+MoE notice dated 22.01.2026 for election of Heads alongwith Form-I, Election Schedule and final electoral roll -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1601&amp;lid=1478
+Final approved list of the electoral roll for the election under section 3(3)(c) of the Architects Act, 1972 by Ministry of Education -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1598&amp;lid=1476
+Gazetted Annual Report 24-25 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1596&amp;lid=1474
+ADVISORY TO ALL THE ARCHITECTS REGISTERED WITH THE COUNCIL OF ARCHITECTURE -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1592&amp;lid=1470
+Revised Tender (Dated 29.12.2025) for Supply and Perpetual Access to Architectural E-Books -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1590&amp;lid=1468
+Revised Tender (Dated 29.12.2025) for Supply and Perpetual Access to Architectural E-Journals -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1591&amp;lid=1469
+Corrigendum Dated 29.12.2025 Tender for e-books and e-journals -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1589&amp;lid=1467
+Academic Calendar for the Academic Session 2026-2027-Revised -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1586&amp;lid=1464
+COA Circular letter dt.15.12.2025-last date for submission of online appl. form-2026-27-Revised -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1587&amp;lid=1465
+EDS Application Form -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1584&amp;lid=1463
+MoE Notice for Election of Persons from among themselves by Heads of Architectural Institutions in India -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1583&amp;lid=1462
+Corrigendum to Tender Notice E-Journals/ E- Books -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1579&amp;lid=1459
+Revised Tender for Supply and Perpetual Access to Architectural E-Books -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1580&amp;lid=1460
+MOU between COA & Vectorworks -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1582&amp;lid=317
+Revised Tender for Supply and Perpetual Access to Architectural E-Journals -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1581&amp;lid=1461
+Approval Process Handbook 2026-2027 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1578&amp;lid=1458
+Tender for Supply and Perpetual Access to Architectural E-Books -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1576&amp;lid=1456
+Tender for Supply and Perpetual Access to Architectural E-Journals -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1577&amp;lid=1457
+Circular letter for Election of five persons by Heads of Architectural Institutions in the Country -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1571&amp;lid=1451
+APPROVAL PROCESS NOTICE FOR NEW DIPLOMA INSTITUTIONS FOR SESSION 2026-2027 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1572&amp;lid=1454
+APPROVAL PROCESS NOTICE FOR NEW INSTITUTIONS FOR SESSION 2026-2027 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1573&amp;lid=1453
+COA NOTICE FOR APPROVAL PROCESS FOR THE ACADEMIC SESSION 2026-2027 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1574&amp;lid=1452
+Academic Calendar for the Academic Session 2026-2027 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1575&amp;lid=1455
+Gazette Notification Switzerland Qualifiation -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1570&amp;lid=1450
+Clarification to Queries Raised for Banbasa Land Port Design Competition -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1569&amp;lid=1449
+COA Circular letter dt.29.10.2025 for extn. of last date for admission of M.Arch.-2025-2026 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1568&amp;lid=1448
+AICTE MOU -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1566&amp;lid=1446
+COA Circular letter dt. 19.09.2025-Issuance of Enrolment Number-2025-2026 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1565&amp;lid=1445
+Tender-Appointment of Consultant for Collecting Advt.-Handbook 2026 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1564&amp;lid=1444
+Notice- Withdrawal of NHB Design Competition -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1561&amp;lid=1441
+COA circular letter dt.27.08.25-Extension of last date for admission to B.Arch., M.Arch. and Diploma Programmes -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1560&amp;lid=1440
+PGETA 2025 Final Test Circular -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1557&amp;lid=1437
+Padma Awards 2026 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1556&amp;lid=1436
+Padma Awards 2025 Nomination -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1555&amp;lid=1434
+COA - Policy for Closure of Architectural Institution -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1552&amp;lid=1431
+MOU Between Ghaziabad Development Authority and Council of Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1551&amp;lid=1429
+Important Public Notice for Conduct of Additional PGETA 2025 Test -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1547&amp;lid=1425
+Faculty Experience-Assessment of the Experience of Architects-Faculty Members -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1546&amp;lid=1424
+Important Public notice  extension of conduct of NATA 2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1544&amp;lid=1422
+Welfare Schemes for Architects -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1543&amp;lid=1421
+Notice for Election of Members of the Executive Committee of the Council -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1542&amp;lid=1420
+Tender Notice for Design Development and Implementation of ERP and Website -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1541&amp;lid=1419
+CoA Software Tender -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1540&amp;lid=1417
+MoE Notice for Election of persons from among themselves by Heads of Architectural Institutions in India. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1535&amp;lid=1415
+Tenders -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=1539&amp;lid=19
+IMS Tirupati Dossier Competition -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1534&amp;lid=1414
+PGETA 2025 Circular dt. 17.04.2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1533&amp;lid=1413
+PGETA 2025 Circular -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1531&amp;lid=1411
+PGETA BROCHURE 2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1530&amp;lid=1410
+PGETA-2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1527&amp;lid=1407
+Election Notice dt. 07 April 2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1538&amp;lid=1416
+Election Schedule dt. 03 April 2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1519&amp;lid=1399
+Nomination Paper -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1520&amp;lid=1400
+Advertisement for the Post at TRC Pune -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1517&amp;lid=1397
+Announcement of NATA Conduct 2025 Aptitude Test -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1526&amp;lid=1406
+NATA 2025 Brochure v1-2 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1515&amp;lid=1396
+Welfare Schemes for Architects -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1514&amp;lid=1395
+ARDS 2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1513&amp;lid=1394
+Academic Resource Development Scheme 2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1512&amp;lid=1390
+Sansodhan -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1511&amp;lid=1391
+NATA 2025 Brochure v 1.1 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1505&amp;lid=1386
+NATA 2025  Schedule of Dates -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1507&amp;lid=1387
+COA Circular letter dt. 24.02.2025-Extension of last date for submission of online application form -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1499&amp;lid=1383
+Academic Calendar 2025-26-Revised2-07.02.2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1498&amp;lid=1382
+COA circular letter dt. 07.02.2025-Extension of last date for submission of online application form -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1497&amp;lid=1381
+Revised Academic Calendar 2025-2026 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1492&amp;lid=1378
+COA circular letter dt. 20.01.2025-Extension of last date for submission of online application form. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1491&amp;lid=1377
+Re Tender for 3D and Shooting Kits for NATA 2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1489&amp;lid=1375
+NATA-2025-TEST-CENTER-MANUAL-FINAL -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1487&amp;lid=1373
+COA letter dt.13.01.2024_Invitation for EOI new NATA-2025 test centers -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1488&amp;lid=1374
+Advertisement NATA Test Centres 2025-13.01.2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1486&amp;lid=1372
+Webinar Series Launch Poster -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1485&amp;lid=1371
+Notice of Ministry of Education for election of vacancies of members under Section 3(3) of the Architects Act, 1972 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1483&amp;lid=1369
+Tender for 3D and Shooting Kits for NATA 2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1484&amp;lid=1370
+Insure Your Profession and Health Together -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1482&amp;lid=1368
+COA Approval Process Handbook 2025-26 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1480&amp;lid=1366
+Approval Process 2025-2026 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1481&amp;lid=1367
+DC Notification dated 20.11.2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1477&amp;lid=1363
+Vacancy Notification Under Section 3 (3)(c) dated 20.11.2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1478&amp;lid=1364
+Academic Calendar 2025-26 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1469&amp;lid=1357
+COA Notice dt. 18.11.24- Approval process for new institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1466&amp;lid=1355
+COA Notice dt. 18.11.24- Approval process for new diploma institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1467&amp;lid=1356
+COA Notice dt. 18.11.24- Approval process A.Y 25-26 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1468&amp;lid=1354
+Letter to Chief Secretary, Government of Himachal Pradesh -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1464&amp;lid=1351
+COA circular letter dt.30.09.24-Extension of last date for admission to B.Arch., M.Arch. and Diploma programmes -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1458&amp;lid=1344
+COA Curricular- Conduct of Entrance Test for PG 21.06.2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1437&amp;lid=1325
+Notice for Conduct of Online Examination for Internship Position with COA -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1436&amp;lid=1324
+COA Circular letter dt.16.08.2024 for extension of last date for admission to B.Arch.,M.Arch. & Diploma -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1433&amp;lid=1321
+PGETA 2024 Registration -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1427&amp;lid=1311
+Padma Awards -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1426&amp;lid=1310
+Gazette Notification - Revision in Eligibility criteria for admission into B.Arch. - 06.07.24 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1423&amp;lid=1306
+PGETA ScholarShip Letter -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1425&amp;lid=1309
+IMPORTANT-Revised Final Calender of COA Awards 2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1424&amp;lid=1307
+COA Circular letter dt. 08.07.2024 - Eligibility Criteria for B.Arch 2024-25 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1421&amp;lid=1304
+PGETA 2024 Registration -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1420&amp;lid=1303
+PGETA 2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1418&amp;lid=1301
+Webinar for Aspiring Students of B.Arch Part 1 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1413&amp;lid=1292
+COA letter dt.01.07.2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1435&amp;lid=1322
+Third Party Transparency Audit Report 2023-24 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1416&amp;lid=1296
+Academic Calendar 2024-25-Revised -24.06.24 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1417&amp;lid=1300
+COA Circular- Conduct of Entrance Test for PG-21.06.2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1434&amp;lid=1323
+COA Circular letter dt. 09.05.2024-Release of documentary film-Why Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1415&amp;lid=1294
+Webinar for Aspiring Students of B.Arch Part 2 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1414&amp;lid=1293
+COA Circular on revision of B.Arch. curriculum related to Climate Change -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1410&amp;lid=1289
+Internship Opportunity with Council of Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1412&amp;lid=1291
+Chief Guest -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1408&amp;lid=1287
+COA Notice - New Institution UG 2024-25 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1419&amp;lid=1302
+COA Circular letter dt.12.02.2024 for Extn of Approval 2024-25 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1409&amp;lid=1288
+Academic Calendar 2024-25 REVISED 02.02.2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1405&amp;lid=1284
+COA Circular letter dt.02.02.2024 for Extn. of Approval 2024-25 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1406&amp;lid=1285
+COA Circular letter dated 30.10.2023 for Extension of last date for admission to Diploma, B.Arch. and M.Arch. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1381&amp;lid=1248
+COA circular letter dated 17.11.2023 - Samunnati 2023- Student Biennale -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1384&amp;lid=1252
+EOI for NATA 2024 Test Centres with Manual -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1388&amp;lid=1262
+NATA 2024 Tender -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1389&amp;lid=1263
+COA Notice for Approval Process 2024-2025 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1390&amp;lid=1264
+COA Letter - B.Arch. Fee Structure with calculations -29.12.2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1391&amp;lid=1265
+Tender Notice for NATA 2024 Exam -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1392&amp;lid=1266
+Letter for Enrolment 2023-24 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1398&amp;lid=1277
+COA Circular letter dt.18.01.2024 for Extn. of Approval -2024-25 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1399&amp;lid=1278
+COA Policy for Merger & Takeover of Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1401&amp;lid=1279
+Extension of Last Date for Submission of Tender Document for NATA 2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1403&amp;lid=1281
+WOFX-World Furniture Expo -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1375&amp;lid=1246
+COA circular letter dt. 30.09.2023 for Extension of last date for admission to Diploma, B.Arch and M.Arch. 2023-24 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1374&amp;lid=1245
+COA Survey for Reforms in NATA -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1367&amp;lid=1241
+Revised Combined Awards Calendar 2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1358&amp;lid=1229
+Empanelment Notice for Auditor-Statutory -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1353&amp;lid=1228
+Empanelment Notice for Auditor-Internal -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1352&amp;lid=1227
+COA Circular letter dt. 12.01.23- Clarification reg Ph.D qualification -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1351&amp;lid=1226
+Press Release Launch of Training Programme for Universal Accessibility Auditors -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1350&amp;lid=1223
+HON’BLE MINISTER OF SOCIAL JUSTICE AND EMPOWERMENT -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1349&amp;lid=1222
+NATA  2023 Circular letter dt.20.03.2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1293&amp;lid=1167
+COA Curricular- Conduct of Entrance Test for PG 30.06.2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1326&amp;lid=1200
+Press Release Third Test Nata 2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1327&amp;lid=1201
+Press Release of Announcement of Third TEST NATA-2023. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1328&amp;lid=1202
+Circular dt.19.07.2023 Relaxation in B.Arch. Eligibility Criteria for 2023-2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1330&amp;lid=1205
+Gazette for Relaxation in B.Arch. Eligibility Criteria 2023-2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1331&amp;lid=1206
+Gazette for Allowing JEE and NATA -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1332&amp;lid=1207
+Participate in Solar Decathlon in India -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1333&amp;lid=1208
+COA Cirricular Letter dated 17.08.2023 for Lateral Entry Admission to Diploma Course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1336&amp;lid=1212
+Revised Eligibility for Admission to B.Arch Course for 2023-24 and Conduct of 4th Test of Nata2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1337&amp;lid=1213
+COA circular letter dt.22.08.2023 for Extension of last date for admission to B.Arch. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1338&amp;lid=1214
+COA circular letter dt.22.08.2023 for Extension of last date for admission to Diploma Course. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1339&amp;lid=1215
+WADE Asia -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1341&amp;lid=1217
+Indian Architects Day -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1342&amp;lid=1219
+The Architects Act, 1972 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1345&amp;lid=1218
+Revised Academic Calendar for the Academic Session 2023-2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1348&amp;lid=1221
+Business Meeting between India and Kazakhstan -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1294&amp;lid=1168
+COA Awards 2022 - REVISED Calendar-11Jan 2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1266&amp;lid=1139
+COA Advisory for Centre of Excellence 21.09.2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1347&amp;lid=1220
+Academic Calendar 2023-2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1248&amp;lid=1122
+Design Competition for Toilet Under Swachh Bharat Mission -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1246&amp;lid=1117
+Form for Nomination of Faculty Members -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1229&amp;lid=959
+Corrigendum - Manual of Architectural Practice Handbook (MAP) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1089&amp;lid=961
+Revised Tender Document for NATA-2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1094&amp;lid=966
+Online Training Programme:- Ecological Landscape Planning -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1093&amp;lid=965
+COA GLOBAL ARCHITECTURE CONCLAVE -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1092&amp;lid=964
+Online Training Program:- Post Pandemic Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1091&amp;lid=963
+5 Days National Online FDP on Sustainable Development Goal IV: Agenda 2030 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1090&amp;lid=962
+BROCHURE:- International Conference on Multidisciplinary Aspects of Design: Enhancing the Connections. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1087&amp;lid=958
+5 Days National Online Faculty Development Program on Sustainable Hillside Development -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1086&amp;lid=957
+Revised Academic Calendar-24.01.22 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1085&amp;lid=956
+COA Circular  for School  regarding National Level Architectural Design Competition -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1096&amp;lid=968
+Revised Academic Calender 2022-23-14.02.22 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1098&amp;lid=971
+COA Circular for Clarification for faculty members who have passed 3 year M. arch -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1131&amp;lid=1009
+Winners of COA Students Awards for Excellence in Documentation of Architectural Heritage 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1113&amp;lid=987
+COA National Awards for Excellence in Architectural Thesis 2021 and JK AYA Best Architecture Student of the Year 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1110&amp;lid=986
+Introduction to Energy Conservation Building Code : to be conducted  online by SAL School of Architecture, Ahmedabad -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1109&amp;lid=985
+Outcome Based Education: Research Methods & Techniques in Architecture and Planning -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1108&amp;lid=984
+National Online Faculty Development Programme - Archi-Nari, a womans Perspective on Architectural Capacity Building -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1107&amp;lid=983
+Online Training Programme:- Introduction to Energy Conservation Building Code -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1106&amp;lid=981
+Cordial invitation to  Awards Declaration Function 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1105&amp;lid=980
+Bamboo Society of India Webinar -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1103&amp;lid=977
+Online Training Programme:- Introduction to Energy Conservation Building Code. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1100&amp;lid=973
+National Online Training Program  APPLICATIONS OF GIS & REMOTE SENSING IN ARCHITECTURAL PEDAGOGY. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1072&amp;lid=944
+Issuance of Digitally Signed Certificate of Registration and Identity Card -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1073&amp;lid=945
+Approval Process Handbook - last final 11.01.2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1070&amp;lid=942
+Five Days National Online Faculty Development Program on Quantitative Methods for Qualitative Research in Architecture & Planning. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1069&amp;lid=941
+Online Training Program: Emerging Pedagogies in Architectural Education -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1068&amp;lid=940
+COA Prespective Plan for Growth of Architectural Education (Amended) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1066&amp;lid=938
+Academic Calendar -2022-23- dated 02.12.21 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1065&amp;lid=937
+REVISED-2 COA Awards Calendar 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1067&amp;lid=939
+REVISED zones for participation: COA National Awards for Excellence in Architectural Thesis 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1064&amp;lid=936
+Sustainable Development through Building Design-Past Design Future -Poster -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1063&amp;lid=935
+The Enterprise of Built Environment- Perspectives from the Industry -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1062&amp;lid=934
+Advisory for Practical Training -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1061&amp;lid=933
+LINKS FOR REGISTRATION-COA AWARDS 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1060&amp;lid=932
+Rendezvous with Manual of Architecture Practice (MAP) is being organized on COA SOCIAL -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1042&amp;lid=911
+National Online Faculty Development Program on SDG 11: Safe and Affordable Housing and Sustainable Transport System in India -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1044&amp;lid=913
+Publication of Magazine Architecture Time Space and People -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1045&amp;lid=914
+Session 2 of online dialogue series on COA Social titled Rendezvous with Manual of Architectural Practice (MAP) Committee -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1046&amp;lid=915
+Rendezvous with Manual of Architecture Practice (MAP) is being organized on COA SOCIAL -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1047&amp;lid=916
+Circular dated 28.10.2021- inclusion of Traffic awareness in B. Arch Course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1048&amp;lid=917
+Circular-15.01.2021- Study of  Agro related Infrastructure as a part  of dissertation in B. Arch Course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1049&amp;lid=918
+List of Projects shortlisted for COA-USRP -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1050&amp;lid=919
+Students  Awards for Excellence in Documentation of Architectural Heritage 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1051&amp;lid=922
+National Awards for Excellence in Architectural Thesis 2021 & JK AYA Best Architecture Student  Award - 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1052&amp;lid=923
+Zones for Participation: COA Students  Awards for Excellence in Documentation of Architectural Heritage 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1059&amp;lid=931
+Zones for participation: COA National Awards for Excellence in Architectural -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1058&amp;lid=930
+Winners of the COA Annual International Essay Writing Competition 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1057&amp;lid=929
+COA  Awards Calendar 2021. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1056&amp;lid=928
+Circular dated -06/12/2021 regarding last date of Admission -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1055&amp;lid=927
+Circular dated -03/12/2021 regarding last date of Admission -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1054&amp;lid=926
+National Awards for Excellence in PG Thesis in Architecture 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1053&amp;lid=924
+CHILD FRIENDLY CITY IN INDIA : INCEPTION TO EXECUTION -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1034&amp;lid=903
+Online International Conference on Multidisciplinary Aspects of Architecture and Planning: Enhancing the Connections -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1037&amp;lid=906
+Tender Notice for NATA 2022 Examination -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1039&amp;lid=908
+Program on Expanding Role of Architects with the Technological Transformations -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1040&amp;lid=909
+Nurturing Natural and Cultural Heritage : A Legacy for the Future Generations -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1018&amp;lid=889
+Online workshop titled -Research Paper Writing -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1029&amp;lid=898
+Circular - Revision of Last date of Admission dated 25.10.2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1035&amp;lid=904
+Tender for Civil & Interior Fit out Work for IHC,REG( Publish in Hindustan Times) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1030&amp;lid=899
+Revised Academic Calendar 2021-2022 - 07.10.2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1026&amp;lid=896
+Social Science Approach in Architecture and Urbanism -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1019&amp;lid=888
+Online Training Program:-  Introduction to Energy Conservation Building Code (ECBC) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1031&amp;lid=900
+COA Circular on Admission to B. Arch course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1025&amp;lid=895
+Nata Press Release-11.07.2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=896&amp;lid=726
+Tender Documents NATA 2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1032&amp;lid=901
+Revised Academic Calendar 2021-2022 - 17.10.2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1033&amp;lid=902
+COA International Essay Competition 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1011&amp;lid=882
+Preface -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=1014&amp;lid=241
+Extended Deadline for submission of entries for COA Essay Writing Competition 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1012&amp;lid=883
+Prequalification of Contractors for Interior Works at COAs office premises at Okhla, New Delhi. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1015&amp;lid=885
+Prequalification of Contractors:- Interiors for COA office at Okhla, New Delhi -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1016&amp;lid=886
+Online program titled Rethinking Bamboo in Culture through Design -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1017&amp;lid=887
+Revised Academic Calendar 2021-2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=987&amp;lid=870
+Five Days National Online Faculty Development Program on Resilience in Architecture and Planning -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1000&amp;lid=876
+NATA Public Notice -Extension of Registration Date -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=993&amp;lid=873
+Extension of Deadline for submission of Proposals -COA URBAN STUDIO RESEARCH PROJECT (USRP) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=992&amp;lid=872
+Online Training Program:- Architecture+DesignThinking. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=988&amp;lid=871
+Registration & Declaration Forms (COA URBAN STUDIO RESEARCH PROJECT) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=961&amp;lid=844
+Azadi Ka Amrit Mahotsav -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=917&amp;lid=839
+Five Days National Online Faculty Development Program:- Resilience in Architecture and Planning -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=916&amp;lid=837
+Online Training Program titled Introduction to ECBC -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=915&amp;lid=741
+Five Days National Online Training Program on Research Approaches and Methodologies in Disaster Management -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=914&amp;lid=739
+CALL FOR APPLICATIONS: COA URBAN STUDIO RESEARCH PROJECT (USRP)  to be conducted by COA through COA-TRC, Pune -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=913&amp;lid=738
+Preamble of Essay Writing Competition 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=912&amp;lid=737
+IIA Members 2020 Election Notification -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=911&amp;lid=736
+Gazette Notification dated 10.11.2020 for recognition of Foreign Qualifications -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1335&amp;lid=1211
+Online Training Prog- EXPLORING URBAN PLANNING PROSPECTS IN ARCHITECTURAL DESIGN STUDIOS -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=908&amp;lid=735
+COA NATA Circular (Clarification) - 24.07.21 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=902&amp;lid=732
+COA letter dated 29.07.2021 for online  Examiniation for Associate Membership of IIA (By Examination) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1334&amp;lid=1210
+Letter from the Office of Honble Governor Gujarat -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=603&amp;lid=484
+COA CIRCULAR -ELIGIBILITY CRITERIA AND NATA - 23.07.2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=901&amp;lid=731
+NATA 2021 Press Release - Second Test -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=900&amp;lid=730
+NATA 2021 Notice- Postponement of Result -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=899&amp;lid=729
+Online Training Program titled  Technicalities, Technology and Tools in Ventilation Research -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=898&amp;lid=728
+Revised Academic Calendar - 30.06.2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=897&amp;lid=727
+National Training Program (5 Days), COATRC, Bhopal in association with the  BMS School of Architecture, Yelahanka (Bengaluru) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=895&amp;lid=725
+Online Workshop Pedagogy of Construction in Architectural Education, at COATRC, Bhopal -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=894&amp;lid=724
+NATA Notice for extension of Registration Date -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=893&amp;lid=723
+Online Training Program:-  Institutional Collaboration-An approach to Architectural Pedagogy -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=889&amp;lid=720
+Status:Online Complaint Against Registered Arch. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=888&amp;lid=719
+Status: Offline Complaint Against Registered Arch. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=887&amp;lid=718
+Revised NATA Brochure V1.2 25.05.21 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=886&amp;lid=717
+Online Training Program:- Architectural Research-Practices and Perspectives. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=885&amp;lid=716
+Online Training Program- Green Buildings-The GRIHA Way. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=884&amp;lid=715
+Postponement and Announcement of New Date  for Second Test of Nata 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=882&amp;lid=713
+Public Notice for Restriction of Public Dealing in COA Office -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=881&amp;lid=712
+Closure of COA office due to Covid-19 - 09.05.21 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=880&amp;lid=711
+Advisory for Computation of Marks for Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=879&amp;lid=710
+Online training program:- Visual Research Methods in Architecture, COATRC-PUNE -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=878&amp;lid=709
+Online Training Programme: Traditional Indian Knowledge System, conducted by COA TRC Pune -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=877&amp;lid=708
+Closure of COA office due to Covid-19 (02.05.21) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=876&amp;lid=707
+Online Training Program - Introduction to ECBC -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=875&amp;lid=706
+Notice for Institutions for processing of Applications -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=874&amp;lid=705
+2 Day Training Program - Entrepreneurship in AEC Sector -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=873&amp;lid=704
+Online Training Programme; Introduction to ECBC, 26th to 30th Apr, 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=871&amp;lid=702
+Closure of COA Office due to Pandemic Covid-19 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=872&amp;lid=703
+PRESS RELEASE NATA 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=864&amp;lid=698
+Online Training Programme:- COATRC-Bhopal is organizing a Five day Online Training Programme -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=860&amp;lid=696
+Online training program - [Re]Imagining Architecture , COATRC Pune -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=859&amp;lid=695
+COA Circular for Selection Committee Process - 26.03.21 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=854&amp;lid=691
+Online training program titled Design Education, GEN-Z , COATRC, Pune -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=858&amp;lid=694
+Publication of Handbook of PROFESSIONAL DOCUMENTS 2020, Available for Sale. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=852&amp;lid=689
+COA Circular - Relaxation in B.Arch. Eligibility - 24.03.2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=851&amp;lid=688
+Advisory for Practical Training By B. Arch  Students -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=844&amp;lid=683
+National Seminar (Revised Date):- Role of Architects and Planners in Aatmanirbhar Bharat: Contributions and Opportunities, at COATRC-Bhopal. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=849&amp;lid=686
+QUADRANTS2021 Vanguards of Indian Architecture, Chapter 4. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=845&amp;lid=684
+Advisory on Selection Committee -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=843&amp;lid=682
+National Seminar:- Role of Architects and Planners in Aatmanirbhar Bharat: Contributions and Opportunities, at COATRC-Bhopal. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=842&amp;lid=681
+Online Seminar:- Mainstreaming Bamboo in Construction Sector, On  Zoom, from 12th March 2021 from 10.00 am to 4.30 pm. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=841&amp;lid=680
+Online training program:- Revitalizing Urbanism and Resilient Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=840&amp;lid=679
+Annual Report 2019-2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=839&amp;lid=678
+COATRC-BHOPAL:- Quardants 2021, Chapter - 3, Vanguards of Indian Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=830&amp;lid=677
+COATRC, Bhopal is conducting one Day National Seminar on Architecture Education and Practice Post Pandemic -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=827&amp;lid=674
+Zonal Jury Calendar : Awards for Excellence in Arch Thesis 2021 & JK AYA Best Arch. Student Award -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=826&amp;lid=673
+Online Training Programme:- Beyond Basic Design, from 15th March to 18th March 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=825&amp;lid=672
+Star India with support from COA Organizing Design Competition for BIRDHOUSE -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=824&amp;lid=671
+Rules & Regulations for Design Competition for - BIRDHOUSE -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=823&amp;lid=670
+COA-TRC BHOPAL & BMS College of Architecture - Quadrants 2021. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=821&amp;lid=668
+Revised Academic Calendar - 29.01.21 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=822&amp;lid=669
+COA - Policy for Usage of COA Logo. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=820&amp;lid=667
+One Day National Seminar on Dialogues on the Sust. Development Goals in Hilly Areas. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=818&amp;lid=665
+Revised Academic Calendar 2021-2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=817&amp;lid=664
+Extended 2nd Deadline for COA Documentation of Heritage Awards 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=816&amp;lid=663
+Notice for Approval Process 2021-2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=814&amp;lid=661
+Training program:- Contemporary Practices in Architecture to be conducted  online from 18th to 21st Jan 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=813&amp;lid=660
+5 Days National Online Teacher Training Program (TTP) from 15 to 19th Feb, 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=812&amp;lid=659
+COA PG THESIS AWARDS PROGRAM 2020 - Extended Deadline and Revised Calendar. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=811&amp;lid=658
+COA DOCUMENTATION of HERITAGE AWARDS PROGRAM 2020 - Extended Deadline and Revised Calendar. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=810&amp;lid=657
+Extended Deadline and Revised Calendar of  COA THESIS AWARDS PROGRAM 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=809&amp;lid=656
+Links for Registration Forms - International Essay Writing Competition 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=808&amp;lid=655
+RAJASTHAN GOVT ORDER ON REGISTRATION OF ARCHITECTS -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=806&amp;lid=654
+Webinar on Learning from the  Vernacular -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=800&amp;lid=649
+COATRC-BHOPAL, Webinar Series-QUADRANTS 2021 Vanguards of Indian Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=798&amp;lid=647
+Brief for THESIS AWARDS IN POST GRADUATE THESIS 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=797&amp;lid=646
+COA International Essay Competition 2020 for teachers in schools of architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=799&amp;lid=648
+Brief for Excellence in UG THESIS AWARDS 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=796&amp;lid=645
+Brief for Excellence in Documentation of ARCH HERITAGE 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=795&amp;lid=644
+Awards Calendar for UG Excellence in Architectural Thesis 2020 & JK AYA Best Arch Student of the Year20 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=794&amp;lid=643
+Awards Calendar for THESIS AWARDS IN POST GRADUATE THESIS 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=793&amp;lid=642
+Awards Calendar for Excellence in Documentation of Arch. Heritage 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=792&amp;lid=641
+COA Circular - Implementation of Regulations 2020 & Academic Schedule 2020-21 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=789&amp;lid=638
+COA Circular - Extension of Last Date for Admissions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=788&amp;lid=637
+COA Academic Calendar 2021-2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=787&amp;lid=636
+Webinar Series on Smart Cities in Developed and Developing Countries -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=786&amp;lid=635
+Two days National Online Workshop -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=785&amp;lid=634
+Tender for Courier Service for dispatch of 25,000 copies of Hand Book of Professional Documents-2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=784&amp;lid=633
+Training Program - Understanding Temples to be conducted online. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=783&amp;lid=632
+Poster for National Level Online Training Program -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=782&amp;lid=631
+National Online Training Prog. on Appl. of GIS and Remote Sens in Arch Padegogy -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=781&amp;lid=630
+NOTIFICATION OF FOREIGN ARCHITECTURAL QUALIFICATIONS -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=780&amp;lid=629
+Webinar Series on Spatiotemporal Continuum of Traditional Knowledge in Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=777&amp;lid=628
+COA Circular for Admissions during 2020-2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=770&amp;lid=622
+Online Public Grievance Redressal System -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=769&amp;lid=621
+Webinar on NEP 2020 and Traditional Knowledge in Arch & Planning -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=767&amp;lid=619
+NATA TEST 2 RESULT POSTPONEMENT -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=766&amp;lid=618
+Instructions for HBT Candidate Nata 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=765&amp;lid=617
+Publice Notice - NATA HBT Candidates -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=763&amp;lid=615
+Registration of Nata 2020 for the second test -reg. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=764&amp;lid=616
+Nata Notice Clarification by Council-reg. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=762&amp;lid=614
+NATA 2020 (2nd Test) REVISED SCHEDULE. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=761&amp;lid=613
+NATA 2020 Ist Exam PRESS RELEASE -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=760&amp;lid=612
+NATA Notice - Postponement of Result -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=759&amp;lid=611
+Revised NATA 2020 Brochure v1.4 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=758&amp;lid=610
+NATA Public Notice - Announcement of Second Test Date -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=757&amp;lid=609
+Mock Test Notice for Home base Test Candidates -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=756&amp;lid=608
+COA Webinar On National Education Policy 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=755&amp;lid=607
+Notice for Second NATA Mock Test -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=754&amp;lid=606
+COA Perspective Plan on Architectural Education -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=753&amp;lid=605
+Mock Test Notice -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=752&amp;lid=603
+Winners of the COA International Essaywriting Competition 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=751&amp;lid=602
+Awards Declaration event of the COA International Essay Writing Competition 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=750&amp;lid=600
+COA (Minimum Standards of Architectural Education) Regulations, 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=745&amp;lid=599
+INVITATION FOR INAUGURATION OF COA REGULATIONS 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=744&amp;lid=598
+Revised NATA 2020 Brochure V.1.3 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=742&amp;lid=597
+Public Notice-Revised Eligibility for NATA 2020 Registration -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=741&amp;lid=596
+Relaxation of eligibility criteria for admission to B.Arch Course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=738&amp;lid=595
+Online Workshop: - JUST GIVE ME SOME SPACE-2: Creative and Interactive workshop for students of Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=736&amp;lid=593
+Advisory to Institutions on Computation of Marks due to prevalent Covid 19 Pandemic -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=735&amp;lid=592
+ADVISORY ON COMPUTATION OF MARKS OF B.ARCH. STUDENTS -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=734&amp;lid=591
+Feedback- Conscious induction of skills in architectural pedagogy -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=733&amp;lid=590
+Public Notice - Rescheduling of NATA 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=732&amp;lid=589
+Conscious Induction of Skills in Architectural Pedagogy: The Need of Time- Programme Details -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=731&amp;lid=588
+Conscious Induction of Skills in Architectural Pedagogy: The Need of Time(Details) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=730&amp;lid=587
+Online Training Program Advanced Building Services to be conducted  ONLINE from 2nd July to 7th July 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=729&amp;lid=586
+LAST DATE FOR SUBMISSION OF VIEWS ON ACT AMENDMENT PROPOSAL -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=727&amp;lid=584
+Details of assignments and  feedback of training program L2T and T2L and empanelment form of experts -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=726&amp;lid=583
+Public Advisory Against Quacks / Unregistered Persons -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=725&amp;lid=578
+Imp:- Workshop for students Just give me some Space -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=717&amp;lid=573
+NATA 2020 - Announcement of New Dates -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=718&amp;lid=574
+Notice - TRC Online Programme -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=714&amp;lid=569
+Teaching Indian Architectural History - COA TRC Training Program -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=713&amp;lid=570
+President, COA appeal to all Architects -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=712&amp;lid=568
+PROPOSAL ON ACT AMENDMENT -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=711&amp;lid=567
+NATA Notice - Postponement of Tests -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=710&amp;lid=566
+Teaching Indian Architectural History scheduled to be conducted from 11th May 2020 to 15th May 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=709&amp;lid=565
+COA International Essay Writing Competition 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=708&amp;lid=564
+COA Circular on faculty salary -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=707&amp;lid=563
+SOP Post Lockdown by COA -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=706&amp;lid=562
+Letter to Architects & Schools sharing SOP -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=705&amp;lid=561
+Important Advisory for B.Arch. Students by COA -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=704&amp;lid=560
+COA Letter on Practical Training to Students -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=703&amp;lid=559
+Extn of Deadline for Submitting Papers for JCOA - Inclusive Environments. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=702&amp;lid=555
+Appeal for Contribution to PM CARES FUND through COA -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=701&amp;lid=554
+PUBLIC NOTICE-ONLINE PAYMENT THROUGH NEFT / PAYMENT GATEWAY -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=699&amp;lid=552
+Public Notice - NATA 2020 First Test Postponement -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=700&amp;lid=553
+Closure of Office - Due To CORONA VIRUS -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=698&amp;lid=551
+Circular to avoid personal visit -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=697&amp;lid=550
+Advisory Coronavirus - Architecture Schools -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=695&amp;lid=548
+Advisory Coronavirus -Architects -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=694&amp;lid=547
+President Message on Supreme Court judgement dated 17.03.2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=696&amp;lid=549
+NATA 2020 Revised Brochure - Registration Date Extended -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=691&amp;lid=545
+Notice for NATA 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=693&amp;lid=546
+Advisory - CoronaVirus -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=690&amp;lid=544
+JCOA - Instructions for Authors -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=688&amp;lid=543
+Journal of Council of Architecture (JCOA) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=689&amp;lid=542
+Press Release - COA - NATIONAL AWARDS FOR EXCELLENCE IN ARCHITECTURAL THESIS -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=687&amp;lid=541
+NATA 2020 Examination Notice -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=685&amp;lid=540
+NATA 2020 Brochure -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=684&amp;lid=539
+Revised Academic Calendar 2020-2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=681&amp;lid=537
+Notice for revision of Academic Calendar 2020-2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=682&amp;lid=538
+Notice for Approval Process 2020-2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=680&amp;lid=536
+Academic Calendar 2020-2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=679&amp;lid=535
+Notice - Opening of  Tender of NATA 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=678&amp;lid=534
+COA Outreach Programme at Chennai -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=677&amp;lid=533
+Re-Tender Notice for NATA 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=675&amp;lid=531
+Notice - Opening of NATA Tender -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=674&amp;lid=530
+SC Judgement on Architectural Education -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=669&amp;lid=527
+Govt of Maharashtra Order on Appointment of Architects -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=667&amp;lid=526
+COA Circular letter dated 20.11.2019 with Supreme Court Judgement -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=666&amp;lid=525
+Information under RTI -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=520&amp;lid=427
+Press Release - Change of Office Bearers -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=664&amp;lid=524
+Election Notice for President, Vice President, etc. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=663&amp;lid=523
+Imp:- MHRD, Amendment of COA (Min Standard of arch. Education) Regulations 1983. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=659&amp;lid=519
+Imp-: THESIS AWARDS (UG) - 2019 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=654&amp;lid=515
+Training Programme:- Leadership, Pedagogic and Pers efectiveness. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=656&amp;lid=517
+Imp:- COA Heritage Awards - 2019 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=655&amp;lid=516
+Imp-: THESIS AWARDS (PG) - 2019 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=653&amp;lid=514
+NATA 2019 Result (July) - Press Release -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=649&amp;lid=511
+Nominations for election of the five members from amongst the Heads of Architectural Institution in India -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=648&amp;lid=510
+Tender Notice for COA Office at NBCC -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=646&amp;lid=509
+NATA 2019 (July Examination)  - Press Release -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=645&amp;lid=508
+Letter to Governor Odisha -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=644&amp;lid=507
+Goa Govt Letter on Architects -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=642&amp;lid=506
+Letter from Tamilnadu Govt. of Registration of Architects -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=641&amp;lid=504
+LETTER TO GOVERNOR ANDHRA PRADESH ON REGISTRATION OF ARCHITECTS -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=633&amp;lid=502
+Election Notice of Heads of Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=632&amp;lid=501
+Goa govt letter on Registration of Architects -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=628&amp;lid=499
+DTP Haryana Letter on registration of Architects by Local bodies -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=624&amp;lid=498
+NATA 2019 Result Statewise Summary -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=623&amp;lid=497
+NATA 2019 Result - Press Release -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=622&amp;lid=496
+Bombay High Court order regarding Contemt against State of Maharashtra -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=619&amp;lid=495
+Amendment in eligibility for B.Arch.Course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=432&amp;lid=349
+Centre Wise List of Candidates Appeared in NATA 2019 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=615&amp;lid=493
+Press Release NATA 2019 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=614&amp;lid=492
+Kerala High Court order on Revised Eligibility -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=612&amp;lid=491
+Letter to the President, Graduates Association of Civil Engineers, Kerala dated 18.03.19 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=611&amp;lid=490
+Letter to the President, Graduates Association of Civil Engineers, Kerala dated 14.03.19 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=610&amp;lid=489
+Revised Tender for Software Development of COA Website -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=609&amp;lid=488
+Govt of Bihar letter on Registration of Architects -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=607&amp;lid=487
+Gazette Notification dated 13.02.2019 of eligibility of B.Arch.Course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=602&amp;lid=483
+MOU Between GRIHA COUNCIL & COA -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=600&amp;lid=482
+IMP:- Amendment to COA Minimum Standards of Architectural Regulations - 1983. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=599&amp;lid=481
+Letter to Governor Gujarat regarding Registration -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=597&amp;lid=479
+NATA 2019 Brochure -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=579&amp;lid=475
+Anti Ragging Measures by Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=571&amp;lid=472
+REVISED ACADEMIC CALENDAR -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=567&amp;lid=467
+REVISED ACADEMIC CALENDAR -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=565&amp;lid=468
+Approval Process Notice 2019-2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=557&amp;lid=464
+Change in office of the President -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=538&amp;lid=445
+COA office Telephone  update intimation -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=500&amp;lid=411
+COA Circular regarding Norms of COA -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=366&amp;lid=319
+Important Notice for Registration -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=480&amp;lid=391
+Draft Minimum Standards, 2017 sent to MHRD -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=478&amp;lid=389
+Amendment in Eligibility Regulations -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=456&amp;lid=370
+Public Notice regarding Practice as an Architect -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=448&amp;lid=364
+Supreme Court order on Practice as an architect -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=441&amp;lid=358
+Letter to Honble Finance Minister on appointment of Architects -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=434&amp;lid=351
+COA letter issued to Savera College of Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=427&amp;lid=345
+COA Circular regarding Inspections by Inspectors -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=365&amp;lid=318
+Notice for Enrolment Numbers -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=332&amp;lid=286
+Advertisement for the post of Director of SPA Bhopal -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1152&amp;lid=1027
+TTP-COA-SSAA Factor -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1150&amp;lid=1026
+FDP on Architectural Education through Outcome - Based -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1149&amp;lid=1025
+National Online Teachers Training Programme -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1148&amp;lid=1024
+ATSP March 2022 FINAL -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1137&amp;lid=1016
+Advanced Services and Construction Challenges for Futuristic Architecture to be conducted online -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1139&amp;lid=1018
+Revision of dates for design Competition -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1132&amp;lid=1010
+Letter to Hon'ble Finance Minister -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1163&amp;lid=1036
+Knowledge and Employability in Architecture -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1166&amp;lid=1038
+Letter to Chief Secretary -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1164&amp;lid=1037
+NATA 2022 Brochure -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1160&amp;lid=1034
+Revised NATA 2022 Brochure v.1.1 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1159&amp;lid=1033
+Child Psychology and Child Centric Designs Poster2 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1158&amp;lid=1032
+Child Psychology and Child Centric Designs Poster1 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1157&amp;lid=1031
+Rethinking Bamboo through Design- Structural Design -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1156&amp;lid=1030
+NATA 2022 Press Release-1st Test -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1167&amp;lid=1039
+Meeting Notice for Conduct of Elections of Executive Committee of Council -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1168&amp;lid=1040
+Poster Naturalist Approach -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1193&amp;lid=1064
+NATA 2022 Second Test Result Press Release -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1192&amp;lid=1063
+Relaxation in B.Arch.Eligibility Criteria-2022-2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1191&amp;lid=1062
+NATA 2022 Result Notice - 20.07.22 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1190&amp;lid=1061
+NATA Second Test Press_Release 07.07.2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1189&amp;lid=1060
+Architectural Pedagogy as a bridge between Construction Industry Skills and Conventional Theory -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1188&amp;lid=1059
+B.ARCH. ELIGIBILITY RELAXATION NOTIFICATION FOR 2022-2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1186&amp;lid=1057
+Application of Contemporary Technologies for Sustainable Habitat Design, Planning & Management -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1185&amp;lid=1056
+Application of Contemporary Technologies for Sustainable Habitat Design, Planning & Management, to be conducted from 11th to 15th July 2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1184&amp;lid=1055
+NATA 2022 Press Release First Test Result -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1183&amp;lid=1054
+COA Minimum Standards of Architectural Education Guidelines for Diploma Course 2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1180&amp;lid=1051
+ASPIRING_Research Paper -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1171&amp;lid=1043
+ACHIEVING_Research Paper -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1170&amp;lid=1042
+Rethinking Bamboo through Design- Arts and Products in Living Spaces -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1169&amp;lid=1041
+Announcement of Result of Stage2 of Design Competition -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1195&amp;lid=1066
+Stone Laying Ceremony of CoA  Centre of Excellence and Launch of Manual of  Architectural Practice -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1196&amp;lid=1067
+Revised Academic Calender 2022-23 (05.07.22) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1197&amp;lid=1068
+Circular letter dt.21.09.2022 Advisory for Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1220&amp;lid=1090
+Revised Academic Calendar-2022-23 (14.09.2022) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1219&amp;lid=1089
+Circular letter dt.21.09.2022 for extension of date of admission of B.Arch.-M.Arch. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1218&amp;lid=1088
+Election-All head of Institutions in the Country-letter dt.12.09.2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1214&amp;lid=1085
+Election-All head of Institutions in the Country -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1213&amp;lid=1084
+COA National Awards for Excellence in Post Graduate Thesis in Architecture 2022 and COA Students Awards for Excellence in Documentation of Architectural Heritage (Three Categories) 2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1212&amp;lid=1083
+COA National Awards for Excellence in Post Graduate Thesis in Architecture 2022 and COA Students Awards for Excellence in Documentation of Architectural Heritage (Three Categories) 2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1211&amp;lid=1082
+COA National Awards for Excellence in Post Graduate Thesis in Architecture 2022 and COA Students Awards for Excellence in Documentation of Architectural Heritage (Three Categories) 2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1210&amp;lid=1081
+LEARNING FROM HISTORY TO CREATE PARADIGMS INSPIRED BY ANCIENT WISDOM -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1209&amp;lid=1080
+NATA Third Test - Press Release - 08.08.22 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1198&amp;lid=1069
+NATA 2022-Extension of KEAM 2022-Candidate Portal -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1199&amp;lid=1070
+Interpreting and Main-streaming Living Indian Urban Heritage to be scheduled from 13th September 2022 to 16th September 2022 with SSMS College of Architecture, Pune -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1202&amp;lid=1073
+Date of Extension for admission of B.Arch.-Tamil Nadu -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1203&amp;lid=1074
+Elections of Head of Architectural Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1204&amp;lid=1075
+COA Perspective Plan for Growth of Architectural Education (Amended)-rev -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1208&amp;lid=1079
+GREEN BUILDINGS: PERSPECTIVE AND PRACTICE to be scheduled from 10th October 2022 to 14thOctober 2022 with SPA  New Delhi -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1222&amp;lid=1092
+COA letter dated 21.10.2022 regarding illegal notification issued by YSR Univ. for admission into 1st year of 5-year B.Arch. course. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1223&amp;lid=1093
+Circular letter dt.01.11.22 for Extn of date of B.Arch.-M.Arch.course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1224&amp;lid=1094
+Sustainable Habitat :Design, Planning and Management -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1225&amp;lid=1095
+List of Candidates for election under 3 (3) (c) of the Architects Act 1972 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1226&amp;lid=1096
+Advertisement in  Print & Social Media -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1153&amp;lid=1028
+Ministry Letter dated 23.09.2022 regarding conduct of election amongst Head of Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1221&amp;lid=1091
+Invitation Mail for Event -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1230&amp;lid=1100
+Workshop on Drywall Construction Technique -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1231&amp;lid=1099
+COA Circular - Career Advancement Scheme (CAS)-17.11.2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1235&amp;lid=1106
+Workshop on Dry Wall Construction Technique -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1232&amp;lid=1101
+COA letter dt.16.11.2022-Illegal notification issued by the YCR University for admission into 1st year of 5-year B.Arch.course. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1237&amp;lid=1108
+COA Circular letter dt.30.11.2022 for Extension of Admission of B.Arch-M.Arch. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1240&amp;lid=1111
+Advertisement for NATA 2023 Tender -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1241&amp;lid=1112
+COA Circular letter dt.30.11.2022 for Extension of Admission of B.Arch-M.Arch -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1242&amp;lid=1113
+Creating Level Playing Field -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1243&amp;lid=1114
+Minimum Standards of Architectural Education Guidelines for Post Graduate Programme,2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1244&amp;lid=1115
+Conduct of Elections to Elect the President and the Vice-President -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1274&amp;lid=1147
+Circular letter for  Approval for the Academic Session 2023-2024 dt.23.01.2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1273&amp;lid=1146
+Approval Process for the Academic Session 2023-2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1275&amp;lid=1148
+COA Approval Notice - New Institutions - 03.02.23 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1279&amp;lid=1151
+Circular letter dated 10.02.2023 for Extension of date for submission of online application form -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1280&amp;lid=1152
+Architecture Time Space and People, BV Doshi Special Edition Issue -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1281&amp;lid=1153
+Zonal Jury Calendar -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1283&amp;lid=1155
+Revised Academic Calendar 2023-2024-23.01.2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1272&amp;lid=1145
+Notice for Approval for the Academic Session 2023-2024 dt. 17.01.2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1267&amp;lid=1141
+Circular letter dt.23.02.2023-COA collaborated with Star India Sparrow -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1287&amp;lid=1159
+Circular letter dt. 27.02.2023 for Extension of date for submission of online application form -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1288&amp;lid=1160
+Star India Bird House Competition 2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1286&amp;lid=1158
+Information on appointment of service provider for conduct of NATA 2023 examination-reg -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1289&amp;lid=1162
+COA Approval Notice-New Diploma Institutions-03.03.23 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1290&amp;lid=1164
+APPROVAL PROCESS NOTICE FOR NEW DIPLOMA INST.FOR 2023-24 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1291&amp;lid=1165
+Circular letter dt. 07.03.2023 for Extension of date for submission of online application form (Revised) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1292&amp;lid=1166
+Star India Photography Competition 2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1285&amp;lid=1157
+Crossing the First Milestone in Research: Tips and Techniques for a thorough Literature Review and Formulating Research Topic in the areas of Architecture, Planning, and Urban Design -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1299&amp;lid=1171
+NOTICE FOR APPROVAL PROCESS FOR DIPLOMA INSTITUTIONS-2023-2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1298&amp;lid=1170
+NATA 2023 Brochure -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1297&amp;lid=1169
+Press Release of Nata 2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1324&amp;lid=1197
+Press Release of Conduct of Second TEST of NATA-2023. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1323&amp;lid=1196
+Conference on Parametric Design Future -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1319&amp;lid=1193
+CA/80 (vi)/2023/Design Competition of ESIC Hospitals, Sanand and Kalol, Gujarat -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1316&amp;lid=1188
+NATA 2023 FIRST TEST RESULT -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1312&amp;lid=1184
+Website Policies -> index1.php?lang=1&amp;level=0&amp;lid=40&amp;linkid=38
+Accessibility Options -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=22&amp;lid=18
+Copyright Policy -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=23&amp;lid=32
+Disclaimer -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=24&amp;lid=33
+Help -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=25&amp;lid=34
+Accessibility Help -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=61&amp;lid=71
+Accessing PDF Files -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=62&amp;lid=72
+Accessing Video Files -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=63&amp;lid=73
+Help on search facility -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=64&amp;lid=77
+Role of COA -> index1.php?lang=1&amp;level=3&amp;&amp;sublinkid=89&amp;lid=13
+Hyper Linking Policy -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=26&amp;lid=35
+Privacy Policy -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=27&amp;lid=36
+Online Services -> index1.php?lang=1&amp;level=0&amp;lid=41&amp;linkid=39
+Instructions for Online Submission of Registration Application Form -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=359&amp;lid=313
+Additional Fine Waived List -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=1161&amp;lid=297
+Register Online -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=272&amp;lid=251
+Instructions for Online Services for Registered Architect -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=354&amp;lid=308
+Apply for Login ID for Regd. Architect -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=277&amp;lid=257
+Registration Instruction -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=29&amp;lid=42
+Renewal Fee Instructions for Offline users -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=30&amp;lid=43
+Bank Account Details-Experts/Vendors/Members -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=273&amp;lid=252
+Professional Practice -> index1.php?lang=1&amp;level=0&amp;lid=9&amp;linkid=10
+Conditions of Engagement and scale of charges -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=293&amp;lid=271
+Comprehensive Architectural Services -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=294&amp;lid=81
+Interior Architecture -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=295&amp;lid=82
+Landscape Architecture -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=296&amp;lid=83
+Letter Of Appointment -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=297&amp;lid=84
+Preamble -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=298&amp;lid=85
+Scale Of Charges -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=299&amp;lid=86
+Urban Design -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=300&amp;lid=87
+Architectural Design Competition Guidelines -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=260&amp;lid=239
+Guidelines -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=261&amp;lid=240
+Preface -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=262&amp;lid=241
+Purpose -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=263&amp;lid=242
+Registration Procedure -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=264&amp;lid=243
+Schedule 1 -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=265&amp;lid=244
+Schedule 2 -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=266&amp;lid=245
+Schedule 3 -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=267&amp;lid=246
+Schedule 4 -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=268&amp;lid=247
+Schedule 5 -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=269&amp;lid=248
+Schedule 6 -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=270&amp;lid=249
+Architects Professional Guidelines -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=271&amp;lid=250
+Architects (Professional Conduct) Regulations 1989 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=302&amp;lid=152
+Institutional Consultancy Practice -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=307&amp;lid=272
+General -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=308&amp;lid=195
+Guidelines of Consultancy Practice for Faculty members of Schools of Architecture -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=309&amp;lid=196
+Institutional Consultancy Practice -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=310&amp;lid=197
+Introduction -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=311&amp;lid=198
+Preface -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=312&amp;lid=200
+COA-TRC Events and Activities -> index1.php?lang=1&amp;level=0&amp;lid=211&amp;linkid=41
+AWARDS 2020 -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=790&amp;lid=639
+Competition -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=815&amp;lid=662
+Training Programmes,TRC-Pune -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=563&amp;lid=217
+Training Programme held in 2017 -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=572&amp;lid=403
+Training Programmes held in the year 2018 -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=573&amp;lid=473
+Training & Research Centre, Bhopal -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=657&amp;lid=518
+E-Services -> index1.php?lang=1&amp;level=0&amp;lid=746&amp;linkid=168
+Mobile/Email Updation by Architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=1508&amp;lid=1388
+Registration As an Architect -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=926&amp;lid=814
+Email Updation by Architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=1099&amp;lid=972
+Renewal  of  Registration -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=927&amp;lid=747
+Online Directory Of Architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=925&amp;lid=289
+Architectural Institutions -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=924&amp;lid=793
+Tutorial Videos -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=1097&amp;lid=969
+Foreign Qualification -> showlink.php?lang=1&amp;level=1&amp;&amp;sublinkid=1201&amp;lid=1072
+PGETA 2024 Score Verification -> showlink.php?lang=1&amp;level=1&amp;&amp;sublinkid=1465&amp;lid=1353
+Download CoA Mobile App -> showlink.php?lang=1&amp;level=1&amp;&amp;sublinkid=1470&amp;lid=1358
+Forms Download -> index1.php?lang=1&amp;level=0&amp;lid=5&amp;linkid=4
+EDS Application Form -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1585&amp;lid=1463
+Application Form for Issuance of New Format Certificate -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1559&amp;lid=1439
+Forms for Registered Architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=175&amp;lid=193
+Complaint Form XIV, Complaint against Architect -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=355&amp;lid=309
+Forms for  Architectural Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=512&amp;lid=423
+Application Form for Foreign Architectural Qualification -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1036&amp;lid=905
+Forms related to Election in COA -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=152&amp;lid=165
+Forms for TA/ Honorarium -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=141&amp;lid=154
+FAQs -> index1.php?lang=1&amp;level=0&amp;lid=6&amp;linkid=5
+Architectural Education -> index1.php?lang=1&amp;level=0&amp;lid=11&amp;linkid=7
+Amendment in eligibility for B.Arch.Course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=431&amp;lid=349
+COA (Minimum Standards of Architectural Education) Regulations, 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=748&amp;lid=599
+Relaxation of eligibility criteria for admission to B.Arch Course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=749&amp;lid=595
+COA (Minimum Standards of Architectural Education) Regulations, 1983 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=278&amp;lid=151
+Minimum Standards of Architectural Education Guidelines for PG Programme, 2006 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=182&amp;lid=202
+Guidelines for Degree of Ph.D. in Architecture -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=183&amp;lid=199
+Institutional Consultancy Practice -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=326&amp;lid=272
+General -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=327&amp;lid=195
+Guidelines of Consultancy Practice for Faculty members of Schools of Architecture -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=328&amp;lid=196
+Institutional Consultancy Practice -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=329&amp;lid=197
+Introduction -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=330&amp;lid=198
+Preface -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=331&amp;lid=200
+Judgments & Circulars -> index1.php?lang=1&amp;level=0&amp;lid=8&amp;linkid=9
+Important Court Judgements -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=72&amp;lid=88
+High Court Judgements -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=249&amp;lid=103
+Lower Court Judgements -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=250&amp;lid=104
+Supreme Court Judgements -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=251&amp;lid=105
+Important Government Letters/Circulars -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=103&amp;lid=116
+Government Circulars -> index1.php?lang=1&amp;level=2&amp;&amp;sublinkid=104&amp;lid=115
+Supreme Court order on Practice as an architect -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=442&amp;lid=358
+Kerala High Court order on Revised Eligibility -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=613&amp;lid=491
+Bombay High Court order regarding Contemt against State of Maharashtra -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=620&amp;lid=495
+SC Judgement on Architectural Education -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=668&amp;lid=527
+RAJASTHAN GOVT ORDER ON REGISTRATION OF ARCHITECTS -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=805&amp;lid=654
+Notifications -> index1.php?lang=1&amp;level=0&amp;lid=30&amp;linkid=29
+Public Notice -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=214&amp;lid=24
+General Notices & Circulars -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=217&amp;lid=220
+Reconstitution of DC -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=553&amp;lid=461
+Relaxation of eligibility criteria for admission to B.Arch Course -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=739&amp;lid=595
+COA (Minimum Standards of Architectural Education) Regulations, 2020 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=746&amp;lid=599
+NOTIFICATION OF FOREIGN ARCHITECTURAL QUALIFICATIONS -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=778&amp;lid=629
+IIA Members 2020 Election Notification -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=909&amp;lid=736
+COA Minimum Standards of Architectural Education Guidelines for Diploma Course 2022 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1179&amp;lid=1051
+Terms & Conditions -> index1.php?lang=1&amp;level=0&amp;lid=37&amp;linkid=36
+Helpdesk -> index1.php?lang=1&amp;level=0&amp;lid=1105&amp;linkid=220
+Raise Ticket -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=1317&amp;lid=1189
+Check Ticket Response -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=1318&amp;lid=1191
+Tenders -> index1.php?lang=1&amp;level=0&amp;lid=19&amp;linkid=18
+Revised Tender for Software Development of COA Website -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=608&amp;lid=488
+Empanelment Notice for Auditor-Internal -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1354&amp;lid=1227
+Empanelment Notice for Auditor-Statutory -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1355&amp;lid=1228
+NATA -> index1.php?lang=1&amp;level=0&amp;lid=218&amp;linkid=42
+NATA 2026 Brochure. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1628&amp;lid=1506
+Feedback -> feedback.php?lang=1&amp;level=0&amp;lid=20&amp;linkid=19
+Registration and Renewal Information -> index1.php?lang=1&amp;level=0&amp;lid=21&amp;linkid=20
+Renewal Fee Instructions for Offline users -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=140&amp;lid=43
+Instructions for Online Services for Registered Architect -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=357&amp;lid=308
+Instructions for Online Submission of Registration Application Form -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=364&amp;lid=313
+Registration Statistics -> index1.php?lang=1&amp;level=0&amp;lid=25&amp;linkid=24
+Age group of architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=31&amp;lid=44
+Cities having more than five hundred architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=32&amp;lid=45
+Placement of architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=33&amp;lid=46
+Placement of women architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=34&amp;lid=47
+Qualification wise registration -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=35&amp;lid=48
+Ratio of Male/Female architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=36&amp;lid=49
+Yearwise registration of Architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=37&amp;lid=50
+Defaulter Architect -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=313&amp;lid=273
+State wise architects -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=376&amp;lid=330
+ARCHIVES -> index1.php?lang=1&amp;level=0&amp;lid=339&amp;linkid=57
+Approval Process Handbook 2022-2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1282&amp;lid=1154
+Enforcement of Architects Act, 1972:Regarding Issue of Licenses by Local Authorities -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=406&amp;lid=110
+Notice for Approval Process for 2017-2018 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=476&amp;lid=336
+NATA-2017 Brochure (Revised on 20.01.2017) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=475&amp;lid=324
+Clarification on NATA-16 Score -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=474&amp;lid=373
+Registration by Municipalities -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=416&amp;lid=291
+Quota for J&K Wards -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=415&amp;lid=269
+Notice to CPWD regarding Circular dated 16.12.2015 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=414&amp;lid=281
+Notice for All Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=413&amp;lid=64
+MOU between COA & Vectorworks -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=412&amp;lid=317
+MHRD Scholarship for students with disabilities -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=411&amp;lid=57
+MHRD letter on eligibility for B.Arch. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=410&amp;lid=267
+Letter to Honble PM on CPWD Circular -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=409&amp;lid=279
+International Conference on Research for Resurgence -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=408&amp;lid=290
+Enhancement of Registration/Renewal Fees -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=407&amp;lid=111
+Letter to NBCC on Pragati Maidan -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=387&amp;lid=310
+Enforcement of Architects Act, 1972: Exemption from Further Registration(From Chief Architect of Haryana) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=405&amp;lid=109
+Enforcement of Architects Act, 1972: Exemption from Further Registration(From Chief Administrator, HUDA) -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=404&amp;lid=108
+Draft COA Professional Examination Regulations, 2010 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=403&amp;lid=54
+Councils Letters regarding UGC Regulations New -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=401&amp;lid=62
+Councils letter regarding conduct of JEE by CBSE -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=400&amp;lid=61
+Constitution of Committee by MHRD on Act Amendment -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=399&amp;lid=60
+COA Public Notice dated 01.05.2015 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=398&amp;lid=266
+COA letter to IIA -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=396&amp;lid=305
+COA Comments on NBC Part 2 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=395&amp;lid=280
+Circular to All Architects for views on NBC -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=394&amp;lid=264
+CBSE letter on eligibility for B.Arch. -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=393&amp;lid=263
+COAs initiatives for Swachh Bharat Mission of Honble Prime Minister -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=392&amp;lid=52
+Vidya Lakshmi Portal - Student Loan -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=389&amp;lid=307
+Letter to NBCC on Pragati Maidan -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=388&amp;lid=311
+Contact Us -> index1.php?lang=1&amp;level=0&amp;lid=29&amp;linkid=28
+Online Directory Of Architects -> index1.php?lang=1&amp;level=0&amp;lid=289&amp;linkid=48
+Generate Fee Dues -> index1.php?lang=1&amp;level=0&amp;lid=298&amp;linkid=49
+Anti Ragging -> index1.php?lang=1&amp;level=0&amp;lid=470&amp;linkid=64
+National Contest 2024 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1428&amp;lid=1312
+Anti Ragging Measures by Institutions -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=570&amp;lid=472
+Anti Ragging Advisory -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=660&amp;lid=520
+UGC letter on Ragging -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=661&amp;lid=521
+Anti-Ragging Letter -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1095&amp;lid=967
+UGC Advisory Dated 14.12.2023 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1385&amp;lid=1253
+New Online affidavit for student on  Anti-Ragging dated 27th October 2021 -> showfile.php?lang=1&amp;level=1&amp;&amp;sublinkid=1043&amp;lid=912
+Recruitment -> index1.php?lang=1&amp;level=0&amp;lid=505&amp;linkid=66
+Help -> index1.php?lang=1&amp;level=0&amp;lid=34&amp;linkid=33
+Accessibility Help -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=57&amp;lid=71
+Accessing PDF Files -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=58&amp;lid=72
+Accessing Video Files -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=59&amp;lid=73
+Help on search facility -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=60&amp;lid=77
+Role of COA -> index1.php?lang=1&amp;level=1&amp;&amp;sublinkid=88&amp;lid=13
+Related Websites -> index1.php?lang=1&amp;level=0&amp;lid=227&amp;linkid=43
+Facebook -> showlink.php?lang=1&amp;level=0&amp;lid=556&amp;linkid=72
+Twitter -> showlink.php?lang=1&amp;level=0&amp;lid=557&amp;linkid=73
+Instagram -> showlink.php?lang=1&amp;level=0&amp;lid=558&amp;linkid=74
+Complaint against Unregistered Persons / Quack -> index1.php?lang=1&amp;level=0&amp;lid=580&amp;linkid=80
+Public Grievance Redressal System -> index1.php?lang=1&amp;level=0&amp;lid=620&amp;linkid=97
+Top -> #Top
+Back -> Javascript:history.go(-1)
+Website Policies -> index1.php?lang=1&amp;level=0&amp;linkid=38&amp;lid=40
+FAQs -> frequently_asked_question.php
+Terms & Conditions -> index1.php?lang=1&amp;level=0&amp;linkid=36&amp;lid=37
+Feedback -> feedback.php?lang=1&amp;level=0&amp;linkid=19&amp;lid=20
+Sitemap -> sitemap.php?lang=1&amp;level=0&amp;linkid=30&amp;lid=31
+ARCHIVES -> index1.php?lang=1&amp;level=0&amp;linkid=57&amp;lid=339
+Contact Us -> index1.php?lang=1&amp;level=0&amp;linkid=28&amp;lid=29
+ -> https://www.facebook.com/coa.gov.in
+ -> https://www.facebook.com/COAsocialofficial
+ -> https://twitter.com/CouncilofArchi1
+ -> https://youtube.com/channel/UCs13U4MpRzTPTP5czCPFJxw
+ -> https://www.instagram.com/council_of_architecture_india/
+ -> #
